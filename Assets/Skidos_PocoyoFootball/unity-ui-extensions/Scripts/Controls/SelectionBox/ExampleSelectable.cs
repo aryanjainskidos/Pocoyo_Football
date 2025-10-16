@@ -3,7 +3,7 @@
 /// Updated Credit BenZed
 /// Sourced from - http://forum.unity3d.com/threads/color-picker.267043/
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     public class ExampleSelectable : MonoBehaviour, IBoxSelectable
     {

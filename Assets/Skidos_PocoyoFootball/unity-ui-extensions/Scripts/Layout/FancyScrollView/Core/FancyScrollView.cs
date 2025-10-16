@@ -2,12 +2,9 @@
 /// Sourced from - https://github.com/setchi/FancyScrollView
 
 using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.UI.Extensions; 
 
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// スクロールビューを実装するための抽象基底クラス.
     /// 無限スクロールおよびスナップに対応しています.
@@ -216,3 +213,4 @@ using UnityEngine.UI.Extensions;
     /// <typeparam name="TItemData"></typeparam>
     /// <seealso cref="FancyScrollView{TItemData, TContext}"/>
     public abstract class FancyScrollView<TItemData> : FancyScrollView<TItemData, NullContext> { }
+}

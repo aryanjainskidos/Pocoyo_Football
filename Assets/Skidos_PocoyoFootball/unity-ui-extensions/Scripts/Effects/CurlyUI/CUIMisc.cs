@@ -1,7 +1,7 @@
 ﻿/// Credit Titinious (https://github.com/Titinious)
 /// Sourced from - https://github.com/Titinious/CurlyUI
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [System.Serializable]
     public struct Vector3_Array2D

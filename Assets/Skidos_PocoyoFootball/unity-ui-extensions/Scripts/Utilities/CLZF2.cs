@@ -83,10 +83,9 @@
     */
 
 using System;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// Improved C# LZF Compressor, a very small data compression library. The compression algorithm is extremely fast.
     /// Note for strings, ensure you only use Unicode else special characters may get corrupted.
@@ -338,3 +337,4 @@ using UnityEngine.UI.Extensions;
             return (int)oidx;
         }
     }
+}

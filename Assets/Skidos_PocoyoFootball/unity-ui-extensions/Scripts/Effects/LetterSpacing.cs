@@ -43,10 +43,8 @@ break down entirely, but it doesn't really do what you'd want either.
 
 using System.Collections.Generic;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Effects/Extensions/Letter Spacing")]
     ///Summary
     /// Note, Vertex Count has changed in 5.2.1+, is now 6 (two tris) instead of 4 (tri strip).
@@ -167,3 +165,4 @@ using UnityEngine.UI.Extensions;
             vh.AddUIVertexTriangleStream(verts);
         }
 	}
+}

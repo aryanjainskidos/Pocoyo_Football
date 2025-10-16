@@ -1,10 +1,8 @@
 ﻿/// Credit ömer faruk sayılır
 /// Sourced from - https://bitbucket.org/snippets/Lordinarius/nrn4L
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [ExecuteInEditMode, RequireComponent(typeof(Image))]
     [AddComponentMenu("UI/Effects/Extensions/Shining Effect")]
     public class ShineEffector : MonoBehaviour
@@ -114,3 +112,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
+}

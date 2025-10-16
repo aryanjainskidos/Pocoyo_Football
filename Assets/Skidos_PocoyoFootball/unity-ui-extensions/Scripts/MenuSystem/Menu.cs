@@ -3,10 +3,8 @@
 /// Updated by SimonDarksideJ - Refactored to be a more generic component
 
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
     public abstract class Menu<T> : Menu where T : Menu<T>
     {
         public static T Instance { get; private set; }
@@ -64,3 +62,4 @@ using UnityEngine.UI.Extensions;
 
         public abstract void OnBackPressed();
     }
+}

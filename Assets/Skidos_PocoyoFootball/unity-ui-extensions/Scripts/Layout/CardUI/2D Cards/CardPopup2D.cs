@@ -6,8 +6,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.UI.Extensions;
+
+namespace UnityEngine.UI.Extensions_Football
+{
 
 [RequireComponent(typeof(Rigidbody))]
 public class CardPopup2D : MonoBehaviour
@@ -77,4 +78,5 @@ public class CardPopup2D : MonoBehaviour
         isFalling = true;
         cardFallRotation = new Vector3(0, 0, fallRotation);
     }
+}
 }

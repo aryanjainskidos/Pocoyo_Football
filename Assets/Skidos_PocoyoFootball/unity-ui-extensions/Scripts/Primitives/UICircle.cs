@@ -19,10 +19,8 @@
 
 using System.Collections.Generic;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Extensions/Primitives/UI Circle")]
     public class UICircle : UIPrimitiveBase
     {
@@ -219,3 +217,4 @@ using UnityEngine.UI.Extensions;
             SetVerticesDirty();
         }
     }
+}

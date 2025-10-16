@@ -4,11 +4,8 @@
 using System;
 using UnityEngine.Events;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
 
     [RequireComponent(typeof(RectTransform)), DisallowMultipleComponent]
     [AddComponentMenu("UI/Extensions/Re-orderable list")]
@@ -155,3 +152,4 @@ using UnityEngine.UI.Extensions;
 
         #endregion
     }
+}

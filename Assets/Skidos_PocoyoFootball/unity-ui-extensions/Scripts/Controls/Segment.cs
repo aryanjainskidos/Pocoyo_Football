@@ -6,7 +6,7 @@ using System.Collections;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [AddComponentMenu("UI/Extensions/Segmented Control/Segment")]
     [RequireComponent(typeof(Selectable))]

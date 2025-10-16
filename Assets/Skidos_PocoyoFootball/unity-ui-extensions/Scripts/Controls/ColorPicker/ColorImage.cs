@@ -2,12 +2,9 @@
 ///Sourced from - http://forum.unity3d.com/threads/color-picker.267043/
 
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-using UnityEngine.UI.Extensions.ColorPicker;
-
-[RequireComponent(typeof(Image))]
+namespace UnityEngine.UI.Extensions_Football.ColorPicker
+{
+    [RequireComponent(typeof(Image))]
 public class ColorImage : MonoBehaviour
 {
     public ColorPickerControl picker;
@@ -29,4 +26,5 @@ public class ColorImage : MonoBehaviour
     {
         image.color = newColor;
     }
+}
 }

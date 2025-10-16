@@ -4,9 +4,10 @@
 using UnityEditor;
 using UnityEditor.AnimatedValues;
 
+
 // For maintenance, every new [SerializeField] variable in Scroller must be declared here
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [CustomEditor(typeof(Scroller))]
     [CanEditMultipleObjects]

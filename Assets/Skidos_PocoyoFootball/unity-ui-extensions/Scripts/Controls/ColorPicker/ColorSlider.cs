@@ -1,13 +1,9 @@
 ﻿///Credit judah4
 ///Sourced from - http://forum.unity3d.com/threads/color-picker.267043/
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-using UnityEngine.UI.Extensions.ColorPicker;
-
-
-/// <summary>
+namespace UnityEngine.UI.Extensions_Football.ColorPicker
+{
+    /// <summary>
     /// Displays one of the color values of aColorPicker
     /// </summary>
     [RequireComponent(typeof(Slider))]
@@ -94,3 +90,4 @@ using UnityEngine.UI.Extensions.ColorPicker;
             listen = true;
         }
     }
+}

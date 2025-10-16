@@ -4,12 +4,8 @@
  * Licensed under MIT (https://github.com/setchi/EasingCore/blob/master/LICENSE)
  */
 
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football.EasingCore
+{
     public enum Ease
     {
         Linear,
@@ -195,3 +191,4 @@ using UnityEngine.UI.Extensions;
             float inOutSine(float t) => 0.5f * (1f - Mathf.Cos(t * Mathf.PI));
         }
     }
+}

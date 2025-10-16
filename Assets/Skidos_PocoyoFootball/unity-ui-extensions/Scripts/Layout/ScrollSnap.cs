@@ -11,11 +11,9 @@
 /// - replaced pagination with delegate function
 using System;
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [ExecuteInEditMode]
     [RequireComponent(typeof(ScrollRect))]
     [AddComponentMenu("UI/Extensions/Scroll Snap")]
@@ -571,3 +569,4 @@ using UnityEngine.UI.Extensions;
         public void StartScreenChange() { }
         #endregion
     }
+}

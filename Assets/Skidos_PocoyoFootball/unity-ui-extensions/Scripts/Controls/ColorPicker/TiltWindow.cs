@@ -3,10 +3,8 @@
 
 using UnityEngine.EventSystems;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
     public class TiltWindow : MonoBehaviour, IDragHandler
     {
         public Vector2 range = new Vector2(5f, 3f);
@@ -42,3 +40,4 @@ using UnityEngine.UI.Extensions;
             m_screenPos = eventData.position;
         }
     }
+}

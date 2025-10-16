@@ -2,11 +2,8 @@
 ///Sourced from - http://forum.unity3d.com/threads/accordion-type-layout.271818/
 
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [RequireComponent(typeof(HorizontalOrVerticalLayoutGroup), typeof(ContentSizeFitter), typeof(ToggleGroup))]
 	[AddComponentMenu("UI/Extensions/Accordion/Accordion Group")]
 	public class Accordion : MonoBehaviour
@@ -61,3 +58,4 @@ using UnityEngine.UI.Extensions;
         }
 #endif
 	}
+}

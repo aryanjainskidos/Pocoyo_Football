@@ -4,11 +4,8 @@
 
 using System.Collections.Generic;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     ///  Extension to the UI class which creates a dropdown list 
     /// </summary>
@@ -383,3 +380,4 @@ using UnityEngine.UI.Extensions;
 			}
 		}
 	}
+}

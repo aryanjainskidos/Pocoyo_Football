@@ -9,7 +9,7 @@ using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Controls;
 #endif
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     public static class UIExtensionsInputManager
     {

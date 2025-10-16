@@ -22,7 +22,7 @@ using UnityEngine.EventSystems;
 /// - while dragging outside of control, the rotation will be canceled
 /// </summary>
 /// 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [RequireComponent(typeof(Image))]
     [AddComponentMenu("UI/Extensions/UI_Knob")]

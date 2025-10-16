@@ -4,11 +4,8 @@
 /*USAGE:
 Simply place the script on A Text control in the scene to display the current PPI / DPI of the screen*/
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [RequireComponent(typeof(Text))]
     [AddComponentMenu("UI/Extensions/PPIViewer")]
     public class PPIViewer : MonoBehaviour
@@ -28,3 +25,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
+}

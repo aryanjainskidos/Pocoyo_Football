@@ -20,11 +20,8 @@
 //IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
 //WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [RequireComponent(typeof(RectTransform))]
     [AddComponentMenu("UI/Extensions/Tooltip/Tooltip")]
     public class ToolTip : MonoBehaviour
@@ -320,3 +317,4 @@ using UnityEngine.UI.Extensions;
             _inside = true;
         }
     }
+}

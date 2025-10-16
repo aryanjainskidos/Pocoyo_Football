@@ -2,10 +2,8 @@
 /// Sourced from - https://github.com/YousicianGit/UnityMenuSystem
 /// Updated by SimonDarksideJ - Refactored to be a more generic component
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// A base menu class that implements parameterless Show and Hide methods
     /// </summary>
@@ -21,3 +19,4 @@ using UnityEngine.UI.Extensions;
             Close();
         }
     }
+}

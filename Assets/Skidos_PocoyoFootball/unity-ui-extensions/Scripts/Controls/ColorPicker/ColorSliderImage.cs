@@ -1,13 +1,9 @@
 ﻿///Credit judah4
 ///Sourced from - http://forum.unity3d.com/threads/color-picker.267043/
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-using UnityEngine.UI.Extensions.ColorPicker;
-
-
-[RequireComponent(typeof(RawImage)), ExecuteInEditMode()]
+namespace UnityEngine.UI.Extensions_Football.ColorPicker
+{
+    [RequireComponent(typeof(RawImage)), ExecuteInEditMode()]
     public class ColorSliderImage : MonoBehaviour
     {
         public ColorPickerControl picker;
@@ -232,3 +228,4 @@ using UnityEngine.UI.Extensions.ColorPicker;
         }
 
     }
+}

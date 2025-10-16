@@ -1,11 +1,8 @@
 ﻿///Credit judah4
 ///Sourced from - http://forum.unity3d.com/threads/color-picker.267043/
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football.ColorPicker
+{
     public enum ColorValues
     {
         R,
@@ -17,3 +14,4 @@ using UnityEngine.UI.Extensions;
         Saturation,
         Value
     }
+}

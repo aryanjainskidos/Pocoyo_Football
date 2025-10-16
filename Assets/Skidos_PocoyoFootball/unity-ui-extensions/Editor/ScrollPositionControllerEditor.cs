@@ -5,7 +5,8 @@
 #if UNITY_EDITOR
 using UnityEditor;
 
-namespace UnityEngine.UI.Extensions
+
+namespace UnityEngine.UI.Extensions_Football
 {
     [CustomEditor(typeof(ScrollPositionController))]
     [CanEditMultipleObjects]

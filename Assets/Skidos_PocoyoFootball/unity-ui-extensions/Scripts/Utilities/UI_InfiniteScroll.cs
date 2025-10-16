@@ -5,7 +5,7 @@
 
 using System.Collections.Generic;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     /// <summary>
     /// Infinite scroll view with automatic configuration 

@@ -67,7 +67,7 @@ public class CustomEditorBase : Editor
 		}
 		else {
 			if (EditorGUILayout.BeginFadeGroup(listData.IsExpanded.faded))
-				EditorGUILayout.PropertyField(property, true);
+				listData.List.DoLayoutList();
 			EditorGUILayout.EndFadeGroup();
 		}
 	}
@@ -124,7 +124,7 @@ public class CustomEditorBase : Editor
 			set
 			{
 				this._property = value;
-				// this.List.serializedProperty = this._property;
+				this.List.serializedProperty = this._property;
 			}
 		}
 
@@ -145,11 +145,11 @@ public class CustomEditorBase : Editor
 		private void CreateList()
 		{
 			bool dragable = true, header = true, add = true, remove = true;
-			// this.List = new ReorderableList(this.Property.serializedObject, this.Property, dragable, header, add, remove);
-			// this.List.drawHeaderCallback += rect => this._property.isExpanded = EditorGUI.ToggleLeft(rect, this._property.displayName, this._property.isExpanded, EditorStyles.boldLabel);
-			// this.List.onCanRemoveCallback += (list) => { return this.List.count > 0; };
-			// this.List.drawElementCallback += this.drawElement;
-			// this.List.elementHeightCallback += (idx) => { return Mathf.Max(EditorGUIUtility.singleLineHeight, EditorGUI.GetPropertyHeight(this._property.GetArrayElementAtIndex(idx), GUIContent.none, true)) + 4.0f; };
+			this.List = new ReorderableList(this.Property.serializedObject, this.Property, dragable, header, add, remove);
+			this.List.drawHeaderCallback += rect => this._property.isExpanded = EditorGUI.ToggleLeft(rect, this._property.displayName, this._property.isExpanded, EditorStyles.boldLabel);
+			this.List.onCanRemoveCallback += (list) => { return this.List.count > 0; };
+			this.List.drawElementCallback += this.drawElement;
+			this.List.elementHeightCallback += (idx) => { return Mathf.Max(EditorGUIUtility.singleLineHeight, EditorGUI.GetPropertyHeight(this._property.GetArrayElementAtIndex(idx), GUIContent.none, true)) + 4.0f; };
 		}
 
 		private void drawElement(Rect rect, int index, bool active, bool focused)
@@ -164,7 +164,7 @@ public class CustomEditorBase : Editor
 			rect.height = EditorGUI.GetPropertyHeight(this._property.GetArrayElementAtIndex(index), GUIContent.none, true);
 			rect.y += 1;
 			EditorGUI.PropertyField(rect, this._property.GetArrayElementAtIndex(index), GUIContent.none, true);
-			// this.List.elementHeight = rect.height + 4.0f;
+			this.List.elementHeight = rect.height + 4.0f;
 		}
 	}
 	#endregion

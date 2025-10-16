@@ -3,11 +3,11 @@
 /// Sourced from - https://github.com/ryanslikesocool/Unity-Card-UI
 /// </summary>
 
+using System.Collections;
 using System.Collections.Generic;
-using UnityEngine.UI;
 using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
 
 ///Credit where credit is due
 ///https://wiki.unity3d.com/index.php?title=Triangulator  
@@ -40,4 +40,5 @@ public class MeshCreator : MonoBehaviour
         // Set up game object with mesh;
         GetComponent<MeshFilter>().mesh = msh;
     }
+}
 }

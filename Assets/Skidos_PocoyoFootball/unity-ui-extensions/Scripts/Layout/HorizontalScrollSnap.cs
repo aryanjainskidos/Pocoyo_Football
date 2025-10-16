@@ -4,9 +4,9 @@
 
 using System;
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+
+namespace UnityEngine.UI.Extensions_Football
+{
 
     [RequireComponent(typeof(ScrollRect))]
     [AddComponentMenu("Layout/Extensions/Horizontal Scroll Snap")]
@@ -320,4 +320,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
-
+}

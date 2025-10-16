@@ -42,11 +42,10 @@ break down entirely, but it doesn't really do what you'd want either.
 */
 
 using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
 
-
-[AddComponentMenu("UI/Effects/Extensions/Mono Spacing")]
+namespace UnityEngine.UI.Extensions_Football
+{
+    [AddComponentMenu("UI/Effects/Extensions/Mono Spacing")]
     [RequireComponent(typeof(Text))]
     [RequireComponent(typeof(RectTransform))]
     ///Summary
@@ -188,3 +187,4 @@ using UnityEngine.UI;
             vh.AddUIVertexTriangleStream(verts);
         }
 	}
+}

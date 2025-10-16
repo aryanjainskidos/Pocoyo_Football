@@ -1,9 +1,8 @@
 ﻿/// Credit setchi (https://github.com/setchi)
 /// Sourced from - https://github.com/setchi/FancyScrollView
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// <see cref="FancyScrollRect{TItemData, TContext}"/> のセルを実装するための抽象基底クラス.
     /// <see cref="FancyCell{TItemData, TContext}.Context"/> が不要な場合は
@@ -54,4 +53,4 @@ using UnityEngine.UI.Extensions;
         /// <inheritdoc/>
         public sealed override void SetContext(FancyScrollRectContext context) => base.SetContext(context);
     }
-
+}

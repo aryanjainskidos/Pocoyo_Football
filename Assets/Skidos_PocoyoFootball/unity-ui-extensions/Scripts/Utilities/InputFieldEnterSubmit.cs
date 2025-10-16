@@ -2,11 +2,9 @@
 /// Sourced from - https://bitbucket.org/SimonDarksideJ/unity-ui-extensions/issues/23/returnkeytriggersbutton
 
 using UnityEngine.Events;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// Usage: Add this component to the input and add the function to execute to the EnterSubmit event of this script
     /// </summary>
@@ -41,3 +39,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
+}

@@ -2,10 +2,9 @@
 ///Credit Martin Nerurkar // www.martin.nerurkar.de // www.sharkbombs.com
 ///Sourced from - http://www.sharkbombs.com/2015/02/10/tooltips-with-the-new-unity-ui-ugui/
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     [RequireComponent(typeof(RectTransform))]
     [AddComponentMenu("UI/Extensions/Tooltip/Tooltip Trigger")]
     public class TooltipTrigger : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, ISelectHandler, IDeselectHandler
@@ -106,4 +105,4 @@ using UnityEngine.UI.Extensions;
             ToolTip.Instance.HideTooltip();
         }
     }
-
+}

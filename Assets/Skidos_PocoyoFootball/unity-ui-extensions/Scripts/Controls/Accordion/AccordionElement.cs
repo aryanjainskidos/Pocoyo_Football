@@ -2,11 +2,10 @@
 ///Sourced from - http://forum.unity3d.com/threads/accordion-type-layout.271818/
 
 using System;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+using UnityEngine.UI.Extensions_Football.Tweens;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [RequireComponent(typeof(RectTransform), typeof(LayoutElement))]
 	[AddComponentMenu("UI/Extensions/Accordion/Accordion Element")]
 	public class AccordionElement : Toggle
@@ -216,3 +215,4 @@ using UnityEngine.UI.Extensions;
 			this.m_LayoutElement.preferredWidth = width;
 		}
 	}
+}

@@ -4,12 +4,11 @@
 /// Update by Martin Sharkbomb - http://forum.unity3d.com/threads/flowlayoutgroup.296709/#post-1977028
 /// Last item alignment fix by Vicente Russo - https://bitbucket.org/SimonDarksideJ/unity-ui-extensions/issues/22/flow-layout-group-align
 /// Vertical Flow by Ramon Molossi 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+
 using System.Collections.Generic;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
 	/// <summary>
 	/// Layout Group controller that arranges children in bars, fitting as many on a line until total size exceeds parent bounds
 	/// </summary>
@@ -426,3 +425,4 @@ using System.Collections.Generic;
 			return max;
 		}
 	}
+}

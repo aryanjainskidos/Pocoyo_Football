@@ -1,10 +1,8 @@
 ﻿/// Credit setchi (https://github.com/setchi)
 /// Sourced from - https://github.com/setchi/FancyScrollView
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     public enum MovementDirection
     {
         Left,
@@ -12,3 +10,4 @@ using UnityEngine.UI.Extensions;
         Up,
         Down,
     }
+}

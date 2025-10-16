@@ -7,10 +7,9 @@
 
 using System;
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// Includes a few fixes of my own, mainly to tidy up duplicates, remove unneeded stuff and testing. (nothing major, all the crew above did the hard work!)
     /// </summary>
@@ -120,3 +119,4 @@ using UnityEngine.UI.Extensions;
             return localPosition;
         }
     }
+}

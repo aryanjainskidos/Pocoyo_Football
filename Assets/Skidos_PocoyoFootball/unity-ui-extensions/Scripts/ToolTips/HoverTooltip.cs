@@ -1,10 +1,8 @@
 ﻿/// Credit drHogan 
 /// Sourced from - http://www.hammerandravens.com/multi-use-tooltip-system-in-unity3d/
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Extensions/HoverTooltip")]
     public class HoverTooltip : MonoBehaviour
     {
@@ -330,3 +328,4 @@ using UnityEngine.UI.Extensions;
         }
 
     }
+}

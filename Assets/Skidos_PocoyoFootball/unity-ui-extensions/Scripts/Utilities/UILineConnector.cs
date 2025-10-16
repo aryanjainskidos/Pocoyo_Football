@@ -1,7 +1,7 @@
 ﻿/// Credit Alastair Aitchison
 /// Sourced from - https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/issues/123/uilinerenderer-issues-with-specifying
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [AddComponentMenu("UI/Extensions/UI Line Connector")]
     [RequireComponent(typeof(UILineRenderer))]

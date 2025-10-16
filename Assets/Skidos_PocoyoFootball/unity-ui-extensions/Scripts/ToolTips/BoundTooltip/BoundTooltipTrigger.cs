@@ -2,7 +2,7 @@
 ///Sourced from - http://www.sharkbombs.com/2015/02/10/tooltips-with-the-new-unity-ui-ugui/
 using UnityEngine.EventSystems;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [AddComponentMenu("UI/Extensions/Bound Tooltip/Bound Tooltip Trigger")]
 	public class BoundTooltipTrigger : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, ISelectHandler, IDeselectHandler

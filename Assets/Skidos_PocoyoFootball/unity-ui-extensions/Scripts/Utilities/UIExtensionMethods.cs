@@ -1,6 +1,6 @@
 ﻿/// Credit Simon (simonDarksideJ) Jackson
 /// Sourced from - My head
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     public static class UIExtensionMethods
     {

@@ -3,10 +3,9 @@
 /// Sourced from - http://forum.unity3d.com/threads/new-ui-and-line-drawing.253772/
 
 using System.Collections.Generic;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Extensions/Primitives/UILineTextureRenderer")]
     public class UILineTextureRenderer : UIPrimitiveBase
     {
@@ -157,3 +156,4 @@ using UnityEngine.UI.Extensions;
             return point; // return it
         }
     }
+}

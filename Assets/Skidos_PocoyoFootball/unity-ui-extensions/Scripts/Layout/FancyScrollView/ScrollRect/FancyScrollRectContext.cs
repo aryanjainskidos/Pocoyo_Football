@@ -3,10 +3,8 @@
 
 using System;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// <see cref="FancyScrollRect{TItemData, TContext}"/> のコンテキスト基底クラス.
     /// </summary>
@@ -15,3 +13,4 @@ using UnityEngine.UI.Extensions;
         ScrollDirection IFancyScrollRectContext.ScrollDirection { get; set; }
         Func<(float ScrollSize, float ReuseMargin)> IFancyScrollRectContext.CalculateScrollSize { get; set; }
     }
+}

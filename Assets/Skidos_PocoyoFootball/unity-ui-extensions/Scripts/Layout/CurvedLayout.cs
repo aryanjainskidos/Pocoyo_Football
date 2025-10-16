@@ -6,9 +6,9 @@
 /// If you make improvements on this script please share them with the community.
 /// 
 /// </summary>
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// TODO:
     /// - add automatic child sizing, like in the HorizontalOrVerticalLayoutGroup.cs
@@ -90,4 +90,4 @@ using UnityEngine.UI.Extensions;
 
         }
     }
-
+}

@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-namespace UnityEngine.UI.Extensions {
+namespace UnityEngine.UI.Extensions_Football {
     // Image according to the label inside the name attribute to load, read from the Resources directory. The size of the image is controlled by the size property.
 
     // Use: Add Icon name and sprite to the icons list

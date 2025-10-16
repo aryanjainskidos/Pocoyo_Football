@@ -3,10 +3,9 @@
 /// Please donate: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RJ8D9FRFQF9VS
 
 using UnityEngine.Events;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     [RequireComponent(typeof(ScrollRect))]
     [AddComponentMenu("Layout/Extensions/Vertical Scroller")]
     public class UIVerticalScroller : MonoBehaviour
@@ -252,3 +251,4 @@ using UnityEngine.UI.Extensions;
 
         }
     }
+}

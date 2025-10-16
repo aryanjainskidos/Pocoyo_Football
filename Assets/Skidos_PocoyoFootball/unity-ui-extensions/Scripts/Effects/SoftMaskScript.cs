@@ -2,10 +2,8 @@
 /// Sourced from - http://www.randomchaos.co.uk/SoftAlphaUIMask.aspx
 /// Updated by valtain - https://bitbucket.org/SimonDarksideJ/unity-ui-extensions/pull-requests/33
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [ExecuteInEditMode]
     [AddComponentMenu("UI/Effects/Extensions/SoftMaskScript")]
     public class SoftMaskScript : MonoBehaviour
@@ -113,3 +111,4 @@ using UnityEngine.UI.Extensions;
             return new Rect(m_CanvasCorners[0].x, m_CanvasCorners[0].y, m_CanvasCorners[2].x - m_CanvasCorners[0].x, m_CanvasCorners[2].y - m_CanvasCorners[0].y);
         }
     }
+}

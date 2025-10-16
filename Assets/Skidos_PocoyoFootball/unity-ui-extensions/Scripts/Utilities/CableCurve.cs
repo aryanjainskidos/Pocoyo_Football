@@ -4,10 +4,9 @@
 
 using System;
 using System.Collections.Generic;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     [System.Serializable]
     public class CableCurve
     {
@@ -231,3 +230,4 @@ using UnityEngine.UI.Extensions;
             return points;
         }
     }
+}

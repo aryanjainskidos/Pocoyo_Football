@@ -21,12 +21,12 @@ public class TrStringEditor : Editor {
 		IsExpanded = new AnimBool(property.isExpanded);
 		IsExpanded.speed = 1f;
 
-		// list = new ReorderableList(serializedObject, property, false, true, true, true);
-		// list.drawHeaderCallback += rect => property.isExpanded = EditorGUI.ToggleLeft(rect, property.displayName, property.isExpanded, EditorStyles.boldLabel);
-		// list.onCanRemoveCallback += (list) => { return list.count > 0; };
-		// list.drawElementCallback += this.drawElement;
-		// list.onAddCallback += this.addElement;
-		// list.elementHeightCallback += (idx) => { return Mathf.Max(EditorGUIUtility.singleLineHeight, EditorGUI.GetPropertyHeight(property.GetArrayElementAtIndex(idx), GUIContent.none, true)) + 4.0f; };
+		list = new ReorderableList(serializedObject, property, false, true, true, true);
+		list.drawHeaderCallback += rect => property.isExpanded = EditorGUI.ToggleLeft(rect, property.displayName, property.isExpanded, EditorStyles.boldLabel);
+		list.onCanRemoveCallback += (list) => { return list.count > 0; };
+		list.drawElementCallback += this.drawElement;
+		list.onAddCallback += this.addElement;
+		list.elementHeightCallback += (idx) => { return Mathf.Max(EditorGUIUtility.singleLineHeight, EditorGUI.GetPropertyHeight(property.GetArrayElementAtIndex(idx), GUIContent.none, true)) + 4.0f; };
 
 	}
 
@@ -46,7 +46,7 @@ public class TrStringEditor : Editor {
 		else {
 			if (EditorGUILayout.BeginFadeGroup(IsExpanded.faded))
 			{				
-				EditorGUILayout.PropertyField(property, true);
+				list.DoLayoutList();
 			}
 			EditorGUILayout.EndFadeGroup();
 		}
@@ -64,19 +64,19 @@ public class TrStringEditor : Editor {
 		rect.height = EditorGUI.GetPropertyHeight(property.GetArrayElementAtIndex(index), GUIContent.none, true);
 		rect.y += 1;
 		EditorGUI.PropertyField(rect, property.GetArrayElementAtIndex(index), GUIContent.none, true);
-		// this.list.elementHeight = rect.height + 4.0f;
+		this.list.elementHeight = rect.height + 4.0f;
 		EditorGUI.indentLevel --;
 	}
 
-	// private void addElement(ReorderableList l)
-	// {  
-	// 	var index = l.serializedProperty.arraySize;
-	// 	l.serializedProperty.arraySize++;
-	// 	l.index = index;
-	// 	var element = l.serializedProperty.GetArrayElementAtIndex(index);
-	// 	element.FindPropertyRelative("OriginalText").stringValue = string.Empty;
-	// 	element.FindPropertyRelative("stringId").stringValue = Translation.NextStringId();
-	// }
+	private void addElement(ReorderableList l)
+	{  
+		var index = l.serializedProperty.arraySize;
+		l.serializedProperty.arraySize++;
+		l.index = index;
+		var element = l.serializedProperty.GetArrayElementAtIndex(index);
+		element.FindPropertyRelative("OriginalText").stringValue = string.Empty;
+		element.FindPropertyRelative("stringId").stringValue = Translation.NextStringId();
+	}
 }
 
 #endif

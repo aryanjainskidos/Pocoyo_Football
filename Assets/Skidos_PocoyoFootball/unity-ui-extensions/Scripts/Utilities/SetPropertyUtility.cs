@@ -2,7 +2,7 @@
 /// Tool script taken from the UI source as it's set to Internal for some reason. So to use in the extensions project it is needed here also.
 /// </summary>
 /// 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     internal static class SetPropertyUtility
     {

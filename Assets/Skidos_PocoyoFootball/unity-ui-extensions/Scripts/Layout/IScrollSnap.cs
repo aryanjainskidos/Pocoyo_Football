@@ -1,10 +1,9 @@
 ﻿/// Credit SimonDarksideJ
 /// Required for scrollbar support to work across ALL scroll snaps
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     internal interface IScrollSnap
     {
         void ChangePage(int page);
@@ -12,4 +11,4 @@ using UnityEngine.UI.Extensions;
         int CurrentPage();
         void StartScreenChange();
     }
-
+}

@@ -3,11 +3,9 @@
 /// Updated by simonDarksideJ - Made extension support all types of scroll snap
 
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [DisallowMultipleComponent]
     public class ScrollSnapScrollbarHelper : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IBeginDragHandler, IEndDragHandler, IDragHandler
     {
@@ -53,3 +51,4 @@ using UnityEngine.UI.Extensions;
             ss.ChangePage(ss.CurrentPage());
         }
     }
+}

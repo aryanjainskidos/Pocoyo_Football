@@ -1,9 +1,8 @@
 /// Credit RahulOfTheRamanEffect
 /// Sourced from - https://forum.unity3d.com/members/rahuloftheramaneffect.773241/
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// Arranges child objects into a non-uniform grid, with fixed column widths and flexible row heights
     /// </summary>
@@ -286,3 +285,4 @@ using UnityEngine.UI.Extensions;
             preferredRowHeights = null;
         }
     }
+}

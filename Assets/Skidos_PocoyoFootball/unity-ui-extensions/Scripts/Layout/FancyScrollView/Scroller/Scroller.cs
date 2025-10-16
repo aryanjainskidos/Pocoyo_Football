@@ -3,10 +3,10 @@
 
 using System;
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+using UnityEngine.UI.Extensions_Football.EasingCore;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// スクロール位置の制御を行うコンポーネント.
     /// </summary>
@@ -594,3 +594,4 @@ using UnityEngine.UI.Extensions;
 
         float CircularPosition(float p, int size) => size < 1 ? 0 : p < 0 ? size - 1 + (p + 1) % size : p % size;
     }
+}

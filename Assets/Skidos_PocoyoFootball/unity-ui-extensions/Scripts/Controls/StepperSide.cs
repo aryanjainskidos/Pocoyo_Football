@@ -5,7 +5,7 @@ using System;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
 
     [RequireComponent(typeof(Selectable))]

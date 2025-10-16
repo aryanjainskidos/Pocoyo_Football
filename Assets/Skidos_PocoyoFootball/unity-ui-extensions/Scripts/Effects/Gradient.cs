@@ -2,11 +2,10 @@
 /// Sourced from - http://forum.unity3d.com/threads/scripts-useful-4-6-scripts-collection.264161/#post-1780095
 
 using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
 
-
-[AddComponentMenu("UI/Effects/Extensions/Gradient")]
+namespace UnityEngine.UI.Extensions_Football
+{
+    [AddComponentMenu("UI/Effects/Extensions/Gradient")]
     public class Gradient : BaseMeshEffect
     {
         [SerializeField]
@@ -117,3 +116,4 @@ using UnityEngine.UI;
         //Free
     }
     //enum color mode Additive, Multiply, Overwrite
+}

@@ -4,8 +4,9 @@
 /// </summary>
 
 using System.Collections;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+
+namespace UnityEngine.UI.Extensions_Football
+{
 
     public class CardStack2D : MonoBehaviour
     {
@@ -119,3 +120,4 @@ using UnityEngine.UI.Extensions;
             canUseHorizontalAxis = true;
         }
     }
+}

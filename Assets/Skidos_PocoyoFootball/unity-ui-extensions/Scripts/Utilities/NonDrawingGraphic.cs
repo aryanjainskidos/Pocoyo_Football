@@ -1,11 +1,8 @@
 ﻿/// Credit Slipp Douglas Thompson 
 /// Sourced from - https://gist.github.com/capnslipp/349c18283f2fea316369
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     /// A concrete subclass of the Unity UI `Graphic` class that just skips drawing.
     /// Useful for providing a raycast target without actually drawing anything.
     [AddComponentMenu("Layout/Extensions/NonDrawingGraphic")]
@@ -21,3 +18,4 @@ using UnityEngine.UI.Extensions;
             return;
         }
     }
+}

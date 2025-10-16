@@ -1,11 +1,9 @@
 ﻿/// Credit 00christian00
 /// Sourced from - http://forum.unity3d.com/threads/any-way-to-show-part-of-an-image-without-using-mask.360085/#post-2332030
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Effects/Extensions/UIScreenEffect")]
     [ExecuteInEditMode]
     [RequireComponent(typeof(RectTransform))]
@@ -40,3 +38,4 @@ using UnityEngine.UI.Extensions;
             SetMaterial();
         }
     }
+}

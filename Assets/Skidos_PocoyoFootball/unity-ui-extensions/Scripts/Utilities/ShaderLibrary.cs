@@ -2,7 +2,7 @@
 
 using System.Collections.Generic;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     public static class ShaderLibrary
     {

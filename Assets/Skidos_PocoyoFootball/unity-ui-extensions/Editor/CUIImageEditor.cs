@@ -2,8 +2,9 @@
 /// Sourced from - https://github.com/Titinious/CurlyUI
 #if UNITY_EDITOR
 using UnityEditor;
+using UnityEngine.UI.Extensions_Football;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [CustomEditor(typeof(CUIImage))]
     public class CUIImageEditor : CUIGraphicEditor

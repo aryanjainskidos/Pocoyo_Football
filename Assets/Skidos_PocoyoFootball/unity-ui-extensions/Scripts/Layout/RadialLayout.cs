@@ -24,10 +24,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("Layout/Extensions/Radial Layout")]
     public class RadialLayout : LayoutGroup
     {
@@ -100,4 +98,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
-
+}

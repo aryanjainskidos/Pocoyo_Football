@@ -15,10 +15,9 @@
 /// http://rumorgames.com/hide-in-inspector/
 ///
 /// </summary>
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Extensions/Primitives/Cut Corners")]
     public class UICornerCut : UIPrimitiveBase
     {
@@ -217,3 +216,4 @@ using UnityEngine.UI.Extensions;
             return vh.currentVertCount - 1;
         }
     }
+}

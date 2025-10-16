@@ -1,12 +1,11 @@
 using System.Collections.Generic;
 /// Credit Brogan King (@BroganKing)
 /// Original Sourced from - https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/issues/158/pagination-script
+
 using System.Linq;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Extensions/Pagination Manager")]
     public class PaginationManager : ToggleGroup
     {
@@ -137,4 +136,4 @@ using UnityEngine.UI.Extensions;
             isAClick = false;
         }
     }
-
+}

@@ -8,7 +8,7 @@ using UnityEngine.EventSystems;
 /// This is the most efficient way to handle scroll conflicts when there are multiple scroll rects, this is useful when there is a vertical scrollrect in/on a horizontal scrollrect or vice versa
 /// Attach the script to the  rect scroll and assign other rectscroll in the inspector (one is vertical and other is horizontal) gathered and modified from unity answers(delta snipper)
 /// </summary>
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [RequireComponent(typeof(ScrollRect))]
     [AddComponentMenu("UI/Extensions/Scrollrect Conflict Manager")]

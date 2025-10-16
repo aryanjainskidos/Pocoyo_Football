@@ -1,7 +1,7 @@
 ﻿/// Credit Ziboo
 /// Sourced from - http://forum.unity3d.com/threads/free-reorderable-list.364600/
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     public class ReorderableListDebug : MonoBehaviour
     {

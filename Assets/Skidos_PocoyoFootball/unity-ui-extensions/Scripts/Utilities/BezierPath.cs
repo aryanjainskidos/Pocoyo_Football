@@ -15,9 +15,9 @@
 
 
 using System.Collections.Generic;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+
+namespace UnityEngine.UI.Extensions_Football
+{
     /**
         Class for representing a Bezier path, and methods for getting suitable points to 
         draw the curve with line segments.
@@ -347,3 +347,4 @@ using UnityEngine.UI.Extensions;
 
         }
     }
+}

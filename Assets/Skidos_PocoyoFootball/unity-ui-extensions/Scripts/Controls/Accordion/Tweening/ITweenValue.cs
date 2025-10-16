@@ -2,11 +2,8 @@
 ///Sourced from - http://forum.unity3d.com/threads/accordion-type-layout.271818/
 
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football.Tweens
+{
     internal interface ITweenValue
 	{
 		void TweenValue(float floatPercentage);
@@ -15,3 +12,4 @@ using UnityEngine.UI.Extensions;
 		bool ValidTarget();
 		void Finished();
 	}
+}

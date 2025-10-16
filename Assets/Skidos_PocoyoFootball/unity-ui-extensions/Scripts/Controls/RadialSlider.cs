@@ -6,11 +6,8 @@ using System;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Extensions/Radial Slider")]
     [RequireComponent(typeof(Image))]
     public class RadialSlider : MonoBehaviour, IPointerEnterHandler, IPointerDownHandler, IPointerUpHandler, IDragHandler
@@ -258,3 +255,4 @@ using UnityEngine.UI.Extensions;
         }
         #endregion
     }
+}

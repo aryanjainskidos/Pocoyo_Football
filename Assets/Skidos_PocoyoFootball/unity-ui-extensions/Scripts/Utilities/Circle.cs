@@ -1,9 +1,10 @@
 ﻿/// Credit Board To Bits Games 
 /// Original Sourced from - https://www.youtube.com/watch?v=Or3fA-UjnwU
 /// Updated and modified for UI Extensions to be more generic
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+
+
+namespace UnityEngine.UI.Extensions_Football
+{
     public class Circle
     {
         [SerializeField]
@@ -78,3 +79,4 @@ using UnityEngine.UI.Extensions;
             eval.y = Mathf.Cos(angle) * yAxis;
         }
     }
+}

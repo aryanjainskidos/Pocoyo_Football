@@ -4,9 +4,8 @@
 
 using UnityEngine.EventSystems;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+namespace UnityEngine.UI.Extensions_Football.ColorPicker
+{
 	/// <summary>
 	/// Samples colors from a screen capture. 
 	/// Warning! In the editor if you're not in Free aspect mode then 
@@ -93,4 +92,4 @@ using UnityEngine.UI.Extensions;
             m_screenPos = eventData.position;
         }
     }
-
+}

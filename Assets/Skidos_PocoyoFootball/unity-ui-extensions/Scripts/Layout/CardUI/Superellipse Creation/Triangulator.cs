@@ -5,10 +5,9 @@
 
 using UnityEngine;
 using System.Collections.Generic;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
 ///Credit where credit is due
 ///https://wiki.unity3d.com/index.php?title=Triangulator 
 [ExecuteInEditMode]
@@ -129,4 +128,5 @@ public class Triangulator
 
         return ((aCROSSbp >= 0.0f) && (bCROSScp >= 0.0f) && (cCROSSap >= 0.0f));
     }
+}
 }

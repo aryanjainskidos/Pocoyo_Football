@@ -7,11 +7,8 @@ using System;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Extensions/Range Slider", 34)]
     [ExecuteInEditMode]
     [RequireComponent(typeof(RectTransform))]
@@ -600,4 +597,4 @@ using UnityEngine.UI.Extensions;
             eventData.useDragThreshold = false;
         }
     }
-
+}

@@ -2,10 +2,9 @@
 /// Sourced from - http://forum.unity3d.com/threads/scripts-useful-4-6-scripts-collection.264161/page-3#post-2280109
 
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     [ExecuteInEditMode]
     [RequireComponent(typeof(RectTransform))]
     [AddComponentMenu("Layout/Extensions/Tile Size Fitter")]
@@ -104,3 +103,4 @@ using UnityEngine.UI.Extensions;
         }
 #endif
     }
+}

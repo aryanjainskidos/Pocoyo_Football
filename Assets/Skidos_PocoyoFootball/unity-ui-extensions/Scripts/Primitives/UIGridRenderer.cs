@@ -1,12 +1,10 @@
 /// Credit John Hattan (http://thecodezone.com/)
 /// Sourced from - https://bitbucket.org/UnityUIExtensions/unity-ui-extensions/issues/117/uigridrenderer
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
-  [AddComponentMenu("UI/Extensions/Primitives/UIGridRenderer")]
+namespace UnityEngine.UI.Extensions_Football
+{
+    [AddComponentMenu("UI/Extensions/Primitives/UIGridRenderer")]
 	public class UIGridRenderer : UILineRenderer
 	{
 		[SerializeField]
@@ -140,3 +138,4 @@ using UnityEngine.UI.Extensions;
 			base.OnPopulateMesh(vh);
 		}
 	}
+}

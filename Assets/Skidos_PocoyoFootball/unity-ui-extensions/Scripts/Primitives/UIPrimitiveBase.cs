@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     public enum ResolutionMode
     {
         None,
@@ -360,4 +359,4 @@ using UnityEngine.UI.Extensions;
         #endregion
 
     }
-
+}

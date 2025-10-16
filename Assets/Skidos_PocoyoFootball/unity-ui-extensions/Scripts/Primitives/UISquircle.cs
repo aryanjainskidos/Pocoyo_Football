@@ -3,11 +3,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
 
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Extensions/Primitives/Squircle")]
     public class UISquircle : UIPrimitiveBase
     {
@@ -139,3 +138,4 @@ using UnityEngine.UI.Extensions;
         }
 #endif
     }
+}

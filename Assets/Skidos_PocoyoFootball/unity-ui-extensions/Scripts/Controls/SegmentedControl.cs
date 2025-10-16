@@ -6,7 +6,7 @@ using System.Collections;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     // Segmented control, like a group of buttons
     [AddComponentMenu("UI/Extensions/Segmented Control/Segmented Control")]

@@ -1,10 +1,8 @@
 ﻿/// Credit ömer faruk sayılır
 /// Sourced from - https://bitbucket.org/snippets/Lordinarius/nrn4L
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     public class ShineEffect : MaskableGraphic
     {
 
@@ -94,3 +92,4 @@ using UnityEngine.UI.Extensions;
 #endif
 
     }
+}

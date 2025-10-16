@@ -2,12 +2,9 @@
 /// Sourced from - https://github.com/setchi/FancyScrollView
 
 using System;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// <see cref="FancyGridView{TItemData, TContext}"/> のコンテキストインターフェース.
     /// </summary>
@@ -16,3 +13,4 @@ using UnityEngine.UI.Extensions;
         Func<float> GetStartAxisSpacing { get; set; }
         Func<float> GetCellSize { get; set ; }
     }
+}

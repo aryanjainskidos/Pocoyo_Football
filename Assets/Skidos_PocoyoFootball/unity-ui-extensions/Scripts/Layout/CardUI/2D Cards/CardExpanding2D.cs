@@ -7,7 +7,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.UI.Extensions;
+
+namespace UnityEngine.UI.Extensions_Football
+{
 public class CardExpanding2D : MonoBehaviour
 {
 
@@ -119,4 +121,5 @@ public class CardExpanding2D : MonoBehaviour
             animationActive = -1;
         }
     }
+}
 }

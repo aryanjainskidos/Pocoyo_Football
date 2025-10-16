@@ -2,10 +2,9 @@
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 using UnityEngine.Serialization;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI
+{
     /// <summary>
     /// Simple toggle -- something that has an 'on' and 'off' states: checkbox, toggle button, radio button, etc.
     /// </summary>
@@ -267,4 +266,4 @@ using UnityEngine.UI.Extensions;
             InternalToggle();
         }
     }
-
+}

@@ -7,7 +7,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.EventSystems;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [AddComponentMenu("UI/Extensions/UI Magnetic Infinite Scroll")]
     [RequireComponent(typeof(ScrollRect))]

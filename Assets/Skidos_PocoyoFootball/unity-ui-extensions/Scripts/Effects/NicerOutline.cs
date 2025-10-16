@@ -2,7 +2,7 @@
 /// Sourced from - http://forum.unity3d.com/members/melang.593409/
 
 using System.Collections.Generic;
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     //An outline that looks a bit nicer than the default one. It has less "holes" in the outline by drawing more copies of the effect
     [AddComponentMenu("UI/Effects/Extensions/Nicer Outline")]

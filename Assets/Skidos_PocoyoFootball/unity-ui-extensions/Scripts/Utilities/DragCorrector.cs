@@ -6,11 +6,8 @@ Simply place the script on the EventSystem in the scene to correct the drag thre
 
 using UnityEngine.EventSystems;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [RequireComponent(typeof(EventSystem))]
     [AddComponentMenu("UI/Extensions/DragCorrector")]
     public class DragCorrector : MonoBehaviour
@@ -31,3 +28,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
+}

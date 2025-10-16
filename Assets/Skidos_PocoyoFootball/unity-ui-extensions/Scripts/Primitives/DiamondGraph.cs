@@ -2,10 +2,9 @@
 /// Sourced from - http://forum.unity3d.com/threads/onfillvbo-to-onpopulatemesh-help.353977/#post-2299311
 
 using System;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Extensions/Primitives/Diamond Graph")]
     public class DiamondGraph : UIPrimitiveBase
     {
@@ -64,3 +63,4 @@ using UnityEngine.UI.Extensions;
             vh.AddTriangle(2, 3, 0);
         }
     }
+}

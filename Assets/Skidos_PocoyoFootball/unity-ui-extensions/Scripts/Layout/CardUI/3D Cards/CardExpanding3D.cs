@@ -7,10 +7,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     
 [ExecuteInEditMode]
 public class CardExpanding3D : MonoBehaviour
@@ -219,4 +218,5 @@ public class CardExpanding3D : MonoBehaviour
             nextMax = new Vector2(cardSize.x / 2, cardSize.y / 2) + nextPos;
         }
     }
+}
 }

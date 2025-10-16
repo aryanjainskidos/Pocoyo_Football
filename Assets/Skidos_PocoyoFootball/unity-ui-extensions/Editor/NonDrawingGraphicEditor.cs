@@ -5,7 +5,7 @@
 using UnityEditor;
 using UnityEditor.UI;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [CanEditMultipleObjects, CustomEditor(typeof(NonDrawingGraphic), false)]
     public class NonDrawingGraphicEditor : GraphicEditor

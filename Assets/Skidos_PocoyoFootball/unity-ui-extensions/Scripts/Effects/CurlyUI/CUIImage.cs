@@ -3,7 +3,7 @@
 
 using System.Collections.Generic;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [RequireComponent(typeof(RectTransform))]
     [RequireComponent(typeof(Image))]

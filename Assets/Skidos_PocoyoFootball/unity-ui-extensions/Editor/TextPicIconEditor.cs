@@ -28,7 +28,8 @@ using UnityEditor;
 using System;
 using System.Collections;
 
-namespace UnityEngine.UI.Extensions
+
+namespace UnityEngine.UI.Extensions_Football
 {
 
 	public class TextPicIconEditor : EditorWindow {

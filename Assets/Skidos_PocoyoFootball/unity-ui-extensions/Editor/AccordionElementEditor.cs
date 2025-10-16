@@ -4,7 +4,7 @@
 using UnityEditor;
 using UnityEditor.UI;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [CustomEditor(typeof(AccordionElement), true)]
 	public class AccordionElementEditor : ToggleEditor {

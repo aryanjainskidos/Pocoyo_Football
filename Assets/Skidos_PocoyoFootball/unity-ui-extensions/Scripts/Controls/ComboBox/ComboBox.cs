@@ -3,11 +3,9 @@
 
 using System.Collections.Generic;
 using System.Linq;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [RequireComponent(typeof(RectTransform))]
     [AddComponentMenu("UI/Extensions/ComboBox")]
     public class ComboBox : MonoBehaviour
@@ -335,4 +333,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
-
+}

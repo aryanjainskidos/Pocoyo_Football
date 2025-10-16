@@ -3,7 +3,7 @@
 
 using UnityEngine.EventSystems;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [AddComponentMenu("UI/Extensions/UI Highlightable Extension")]
     [RequireComponent(typeof(RectTransform), typeof(Graphic))]

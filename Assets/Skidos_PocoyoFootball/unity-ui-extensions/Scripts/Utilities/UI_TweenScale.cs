@@ -6,7 +6,7 @@
 
 using System.Collections;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     /// <summary>
     /// Dynamic scaling of text or image (including button) based on curves

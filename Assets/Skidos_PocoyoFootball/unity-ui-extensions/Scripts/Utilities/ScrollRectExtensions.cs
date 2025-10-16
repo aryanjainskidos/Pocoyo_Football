@@ -1,7 +1,7 @@
 ﻿/// Credit Feaver1968 
 /// Sourced from - http://forum.unity3d.com/threads/scroll-to-the-bottom-of-a-scrollrect-in-code.310919/
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     public static class ScrollRectExtensions
     {

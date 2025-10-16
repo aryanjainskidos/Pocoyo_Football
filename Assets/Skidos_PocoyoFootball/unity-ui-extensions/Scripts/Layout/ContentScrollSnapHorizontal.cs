@@ -8,7 +8,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.Events;
 using System;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [ExecuteInEditMode]
     [RequireComponent(typeof(ScrollRect))]

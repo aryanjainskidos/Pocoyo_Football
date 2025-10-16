@@ -3,10 +3,10 @@
 
 using System;
 using System.Collections.Generic;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+using UnityEngine.UI.Extensions_Football.EasingCore;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// ScrollRect スタイルのスクロールビューを実装するための抽象基底クラス.
     /// 無限スクロールおよびスナップには対応していません.
@@ -300,3 +300,4 @@ using UnityEngine.UI.Extensions;
     /// <typeparam name="TItemData">アイテムのデータ型.</typeparam>
     /// <seealso cref="FancyScrollRect{TItemData, TContext}"/>
     public abstract class FancyScrollRect<TItemData> : FancyScrollRect<TItemData, FancyScrollRectContext> { }
+}

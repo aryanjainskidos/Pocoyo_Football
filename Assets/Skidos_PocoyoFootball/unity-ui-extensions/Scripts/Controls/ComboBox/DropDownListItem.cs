@@ -3,11 +3,8 @@
 
 using System;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [Serializable]
     public class DropDownListItem
     {
@@ -100,3 +97,4 @@ using UnityEngine.UI.Extensions;
             OnSelect = onSelect;
         }
     }
+}

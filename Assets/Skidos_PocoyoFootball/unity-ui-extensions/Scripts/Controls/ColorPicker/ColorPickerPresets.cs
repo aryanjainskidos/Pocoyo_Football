@@ -2,12 +2,9 @@
 ///Sourced from - http://forum.unity3d.com/threads/color-picker.267043/
 using System.Collections.Generic;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-using UnityEngine.UI.Extensions.ColorPicker;
-
-public class ColorPickerPresets : MonoBehaviour
+namespace UnityEngine.UI.Extensions_Football.ColorPicker
+{
+	public class ColorPickerPresets : MonoBehaviour
 	{
 		public ColorPickerControl picker;
 
@@ -194,3 +191,4 @@ public class ColorPickerPresets : MonoBehaviour
 			//Debug.Log("color changed: " + color);
 		}
 	}
+}

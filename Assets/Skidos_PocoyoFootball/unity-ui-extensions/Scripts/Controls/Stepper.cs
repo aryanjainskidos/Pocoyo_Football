@@ -6,7 +6,7 @@ using System.Collections;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     // Stepper control
     [AddComponentMenu("UI/Extensions/Stepper")]

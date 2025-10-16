@@ -9,7 +9,7 @@ and drag'n'drop the RectTransform of the options "container" that we'll be scrol
 
 using UnityEngine.EventSystems;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [AddComponentMenu("UI/Extensions/UI ScrollTo Selection XY")]
     [RequireComponent(typeof(ScrollRect))]

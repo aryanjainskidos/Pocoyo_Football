@@ -4,7 +4,7 @@
 using System.Collections;
 using UnityEngine.EventSystems;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [AddComponentMenu("UI/Extensions/Selectable Scalar")]
     [RequireComponent(typeof(Button))]

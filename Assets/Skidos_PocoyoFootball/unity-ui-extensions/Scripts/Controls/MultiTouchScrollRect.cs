@@ -1,11 +1,9 @@
 /// Credit Erdener Gonenc - @PixelEnvision
 /*USAGE: Simply use that instead of the regular ScrollRect */
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu ("UI/Extensions/MultiTouchScrollRect")]
 	public class MultiTouchScrollRect : ScrollRect
 	{
@@ -38,3 +36,4 @@ using UnityEngine.UI.Extensions;
 				base.OnEndDrag (eventData);
 		}
 	}
+}

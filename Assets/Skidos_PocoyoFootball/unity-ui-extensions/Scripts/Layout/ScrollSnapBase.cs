@@ -5,11 +5,9 @@
 using System;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     public class ScrollSnapBase : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHandler, IScrollSnap, IPointerClickHandler
     {
         internal Rect panelDimensions;
@@ -648,3 +646,4 @@ using UnityEngine.UI.Extensions;
 
         #endregion
     }
+}

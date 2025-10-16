@@ -5,10 +5,9 @@
 
 using System.Collections.Generic;
 using System.Reflection;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Extensions/Menu Manager")]
     [DisallowMultipleComponent]
     public class MenuManager : MonoBehaviour
@@ -159,3 +158,4 @@ using UnityEngine.UI.Extensions;
         }
     }
 
+}

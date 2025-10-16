@@ -1,9 +1,7 @@
 ﻿using System;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     public static class ExtentionMethods
     {
         public static T GetOrAddComponent<T>(this GameObject child) where T : Component
@@ -32,4 +30,4 @@ using UnityEngine.UI.Extensions;
                     // I don't care about GameObjects *inside* prefabs, just the overall prefab.
         }
     }
-
+}

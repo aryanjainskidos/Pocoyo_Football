@@ -28,7 +28,8 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace UnityEngine.UI.Extensions
+
+namespace UnityEngine.UI.Extensions_Football
 {
 
 	public class TextPicIconListCopier : EditorWindow {

@@ -7,10 +7,9 @@
 /// Updated 08-29-15 - On request of Issue #13 on repo, added a manual navigation order.
 
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     public enum NavigationMode { Auto = 0, Manual = 1};
     [RequireComponent(typeof(EventSystem))]
     [AddComponentMenu("Event/Extensions/Tab Navigation Helper")]
@@ -150,3 +149,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
+}

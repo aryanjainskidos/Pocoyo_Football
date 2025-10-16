@@ -1,13 +1,11 @@
 ﻿///Credit judah4
 ///Sourced from - http://forum.unity3d.com/threads/color-picker.267043/
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-using UnityEngine.UI.Extensions.ColorPicker;
 
+namespace UnityEngine.UI.Extensions_Football.ColorPicker
+{
 
-[RequireComponent(typeof(Text))]
+    [RequireComponent(typeof(Text))]
 public class ColorLabel : MonoBehaviour
 {
     public ColorPickerControl picker;
@@ -85,4 +83,5 @@ public class ColorLabel : MonoBehaviour
         else
             return Mathf.FloorToInt(value).ToString();
     }
+}
 }

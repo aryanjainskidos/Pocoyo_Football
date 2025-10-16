@@ -6,7 +6,8 @@
 using UnityEditor;
 using UnityEditor.UI;
 
-namespace UnityEngine.UI.Extensions
+
+namespace UnityEngine.UI.Extensions_Football
 {
     [CustomEditor(typeof(RangeSlider), true)]
     [CanEditMultipleObjects]

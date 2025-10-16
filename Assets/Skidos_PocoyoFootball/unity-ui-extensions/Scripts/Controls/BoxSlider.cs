@@ -4,11 +4,9 @@
 using System;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [RequireComponent(typeof(RectTransform))]
     [AddComponentMenu("UI/Extensions/BoxSlider")]
     public class BoxSlider : Selectable, IDragHandler, IInitializePotentialDragHandler, ICanvasElement
@@ -370,4 +368,4 @@ using UnityEngine.UI.Extensions;
         }
 
     }
-
+}

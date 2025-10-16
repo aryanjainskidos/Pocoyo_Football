@@ -3,11 +3,9 @@
 
 using System.Collections.Generic;
 using System.Linq;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
+namespace UnityEngine.UI.Extensions_Football
+{
     public enum AutoCompleteSearchType
     {
         ArraySort,
@@ -481,3 +479,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
+}

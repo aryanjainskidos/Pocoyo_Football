@@ -1,11 +1,8 @@
 /// Credit ChoMPHi
 /// Sourced from - http://forum.unity3d.com/threads/script-flippable-for-ui-graphics.291711/
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [RequireComponent(typeof(RectTransform), typeof(Graphic)), DisallowMultipleComponent]
     [AddComponentMenu("UI/Effects/Extensions/Flippable")]
     public class UIFlippable : BaseMeshEffect
@@ -78,3 +75,4 @@ using UnityEngine.UI.Extensions;
         }
 #endif
     }
+}

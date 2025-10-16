@@ -1,11 +1,8 @@
 /// Credit CiaccoDavide
 /// Sourced from - http://ciaccodavi.de/unity/UIPolygon
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Extensions/Primitives/UI Polygon")]
     public class UIPolygon : UIPrimitiveBase
     {
@@ -103,3 +100,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
+}

@@ -2,10 +2,9 @@
 /// Sourced from - https://github.com/setchi/FancyScrollView
 
 using System;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// <see cref="FancyScrollRect{TItemData, TContext}"/> のコンテキストインターフェース.
     /// </summary>
@@ -14,3 +13,4 @@ using UnityEngine.UI.Extensions;
         ScrollDirection ScrollDirection { get; set; }
         Func<(float ScrollSize, float ReuseMargin)> CalculateScrollSize { get; set; }
     }
+}

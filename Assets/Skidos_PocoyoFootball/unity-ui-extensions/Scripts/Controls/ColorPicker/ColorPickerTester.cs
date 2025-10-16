@@ -1,11 +1,8 @@
 ﻿///Credit judah4
 ///Sourced from - http://forum.unity3d.com/threads/color-picker.267043/
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football.ColorPicker
+{
     public class ColorPickerTester : MonoBehaviour
     {
         public Renderer pickerRenderer;
@@ -24,3 +21,4 @@ using UnityEngine.UI.Extensions;
             });
         }
     }
+}

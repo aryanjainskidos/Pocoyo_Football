@@ -3,7 +3,7 @@
 
 using UnityEngine.EventSystems;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [AddComponentMenu("UI/Extensions/RescalePanels/ResizePanel")]
     public class ResizePanel : MonoBehaviour, IPointerDownHandler, IDragHandler

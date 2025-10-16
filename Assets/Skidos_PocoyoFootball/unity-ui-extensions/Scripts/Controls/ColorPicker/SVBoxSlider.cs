@@ -1,9 +1,9 @@
 ﻿///Credit judah4
 ///Sourced from - http://forum.unity3d.com/threads/color-picker.267043/
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+
+namespace UnityEngine.UI.Extensions_Football.ColorPicker
+{
     [RequireComponent(typeof(BoxSlider), typeof(RawImage)), ExecuteInEditMode()]
     public class SVBoxSlider : MonoBehaviour
     {
@@ -119,3 +119,4 @@ using UnityEngine.UI.Extensions;
             image.texture = texture;
         }
     }
+}

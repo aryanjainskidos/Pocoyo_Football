@@ -2,10 +2,8 @@
 /// Sourced from - http://forum.unity3d.com/members/melang.593409/
 
 using System.Collections.Generic;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [AddComponentMenu("UI/Effects/Extensions/BestFit Outline")]
 	public class BestFitOutline : Shadow
 	{
@@ -61,3 +59,4 @@ using UnityEngine.UI.Extensions;
             }
         }
 	}
+}

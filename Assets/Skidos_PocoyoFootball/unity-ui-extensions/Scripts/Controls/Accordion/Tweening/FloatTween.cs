@@ -2,12 +2,10 @@
 ///Sourced from - http://forum.unity3d.com/threads/accordion-type-layout.271818/
 
 using UnityEngine.Events;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
-public struct FloatTween : ITweenValue
+namespace UnityEngine.UI.Extensions_Football.Tweens
+{
+    public struct FloatTween : ITweenValue
 	{
 		public class FloatTweenCallback : UnityEvent<float> {}
 		public class FloatFinishCallback : UnityEvent {}
@@ -119,3 +117,4 @@ public struct FloatTween : ITweenValue
 				m_Finish.Invoke();
 		}
 	}
+}

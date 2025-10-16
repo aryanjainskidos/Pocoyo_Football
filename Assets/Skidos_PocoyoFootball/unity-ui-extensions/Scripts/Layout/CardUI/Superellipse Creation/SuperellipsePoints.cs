@@ -7,9 +7,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
+namespace UnityEngine.UI.Extensions_Football
+{
 ///The formula for a basic superellipse is
 ///Mathf.Pow(Mathf.Abs(x / a), n) + Mathf.Pow(Mathf.Abs(y / b), n) = 1
 [ExecuteInEditMode]
@@ -88,4 +87,5 @@ public class SuperellipsePoints : MonoBehaviour
 
         return y;
     }
+}
 }

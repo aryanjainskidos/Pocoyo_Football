@@ -3,11 +3,8 @@
 
 using System.Collections;
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football.Tweens
+{
     // Tween runner, executes the given tween.
     // The coroutine will live within the given 
     // behaviour container.
@@ -63,3 +60,4 @@ using UnityEngine.UI.Extensions;
 			m_CoroutineContainer.StartCoroutine (m_Tween);
 		}
 	}
+}

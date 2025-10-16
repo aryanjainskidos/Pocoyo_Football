@@ -26,12 +26,12 @@ namespace SoundManager
 			IsExpanded = new AnimBool(property.isExpanded);
 			IsExpanded.speed = 1f;
 
-			// list = new ReorderableList(serializedObject, property, true, true, true, true);
-			// list.drawHeaderCallback += rect => property.isExpanded = EditorGUI.ToggleLeft(rect, property.displayName, property.isExpanded, EditorStyles.boldLabel);
-			// list.onCanRemoveCallback += (list) => { return list.count > 0; };
-			// list.drawElementCallback += this.drawElement;
-			// list.onAddCallback += this.addElement;
-			// list.elementHeightCallback += (idx) => { return EditorGUIUtility.singleLineHeight; };
+			list = new ReorderableList(serializedObject, property, true, true, true, true);
+			list.drawHeaderCallback += rect => property.isExpanded = EditorGUI.ToggleLeft(rect, property.displayName, property.isExpanded, EditorStyles.boldLabel);
+			list.onCanRemoveCallback += (list) => { return list.count > 0; };
+			list.drawElementCallback += this.drawElement;
+			list.onAddCallback += this.addElement;
+			list.elementHeightCallback += (idx) => { return EditorGUIUtility.singleLineHeight; };
 		}
 
 		public override void OnInspectorGUI()
@@ -61,7 +61,7 @@ namespace SoundManager
 				else {
 					if (EditorGUILayout.BeginFadeGroup(IsExpanded.faded))
 					{				
-						EditorGUILayout.PropertyField(property, true);
+						list.DoLayoutList();
 					}
 					EditorGUILayout.EndFadeGroup();
 				}
@@ -91,18 +91,18 @@ namespace SoundManager
 				property.GetArrayElementAtIndex(index).intValue = -1;
 			}
 
-			// this.list.elementHeight = rect.height + EditorGUIUtility.singleLineHeight;
+			this.list.elementHeight = rect.height + EditorGUIUtility.singleLineHeight;
 			EditorGUI.indentLevel --;
 		}
 
-	// private void addElement(ReorderableList l)
-	// {  
-	// 	var index = l.serializedProperty.arraySize;
-	// 	l.serializedProperty.arraySize++;
-	// 	l.index = index;
-	// 	var element = l.serializedProperty.GetArrayElementAtIndex(index);
-	// 	element.intValue = -1;
-	// }
+		private void addElement(ReorderableList l)
+		{  
+			var index = l.serializedProperty.arraySize;
+			l.serializedProperty.arraySize++;
+			l.index = index;
+			var element = l.serializedProperty.GetArrayElementAtIndex(index);
+			element.intValue = -1;
+		}
 	}
 }
 

@@ -2,12 +2,9 @@
 ///Sourced from - http://forum.unity3d.com/threads/color-picker.267043/
 
 using System;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
-
+namespace UnityEngine.UI.Extensions_Football.ColorPicker
+{
     #region ColorUtilities
 
     public static class HSVUtil
@@ -206,3 +203,4 @@ using UnityEngine.UI.Extensions;
         }
     }
     #endregion HsvColor
+}

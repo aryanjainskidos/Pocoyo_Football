@@ -2,13 +2,9 @@
 /// Sourced from - https://github.com/setchi/FancyScrollView
 
 using System.Linq;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.UI.Extensions;
 
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     /// <summary>
     /// 複数の <see cref="FancyCell{TItemData, TContext}"/> を持つセルグループ実装するための抽象基底クラス.
     /// </summary>
@@ -73,3 +69,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
+}

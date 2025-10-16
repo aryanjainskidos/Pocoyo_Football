@@ -1,7 +1,7 @@
 /// Credit Martin Sharkbomb 
 /// Sourced from - http://www.sharkbombs.com/2015/08/26/unity-ui-scrollrect-tools/
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     [RequireComponent(typeof(ScrollRect))]
 	[AddComponentMenu("UI/Extensions/ScrollRectLinker")]

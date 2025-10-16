@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
+namespace UnityEngine.UI
+{
     [AddComponentMenu("UI/Extensions/Extensions Toggle Group")]
     [DisallowMultipleComponent]
     public class ExtensionsToggleGroup : UIBehaviour
@@ -108,3 +107,4 @@ using UnityEngine.UI.Extensions;
             Debug.Log("Testing, a toggle has toggled [" + value + "]");
         }
     }
+}

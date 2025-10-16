@@ -26,11 +26,8 @@ THE SOFTWARE.
 \***************************************************************************/
 
 
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     [RequireComponent(typeof(RectTransform))]
     [RequireComponent(typeof(Image))]
     [AddComponentMenu("UI/Extensions/Raycast Mask")]
@@ -125,3 +122,4 @@ using UnityEngine.UI.Extensions;
             }
         }
     }
+}

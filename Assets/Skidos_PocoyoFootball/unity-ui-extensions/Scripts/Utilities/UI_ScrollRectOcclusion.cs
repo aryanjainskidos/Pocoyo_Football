@@ -4,7 +4,7 @@
 
 using System.Collections.Generic;
 
-namespace UnityEngine.UI.Extensions
+namespace UnityEngine.UI.Extensions_Football
 {
     /// <summary>
     /// ScrollRectOcclusion - disables the objects outside of the scrollrect viewport. 

@@ -3,7 +3,8 @@
 #if UNITY_EDITOR
 using UnityEditor;
 
-namespace UnityEngine.UI.Extensions
+
+namespace UnityEngine.UI.Extensions_Football
 {
     [CanEditMultipleObjects]
     [CustomEditor(typeof(TextPic))]

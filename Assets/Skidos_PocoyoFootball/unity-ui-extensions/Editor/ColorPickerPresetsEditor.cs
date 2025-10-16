@@ -1,8 +1,10 @@
 #if UNITY_EDITOR
 using UnityEngine;
 using UnityEditor;
+using UnityEngine.UI.Extensions_Football.ColorPicker;
 
-namespace UnityEngine.UI.Extensions.ColorPicker
+
+namespace UnityEngine.UI.Extensions_Football
 {
 	[CustomEditor(typeof(ColorPickerPresets))]
 	public class ColorPickerPresetsEditor : Editor

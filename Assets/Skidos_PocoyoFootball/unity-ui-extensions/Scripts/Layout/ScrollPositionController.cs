@@ -4,12 +4,9 @@
 using System;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
-using UnityEngine;
-using UnityEngine.UI.Extensions;
 
-
-
+namespace UnityEngine.UI.Extensions_Football
+{
     public class ScrollPositionController : UIBehaviour, IBeginDragHandler, IEndDragHandler, IDragHandler
     {
         [SerializeField]
@@ -383,3 +380,4 @@ using UnityEngine.UI.Extensions;
             return end * 0.5f * (value * value * value + 2f) + start;
         }
     }
+}
