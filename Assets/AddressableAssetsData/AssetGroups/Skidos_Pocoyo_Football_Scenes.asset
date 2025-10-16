@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skidos_Pocoyo_Football_Scenes
+  m_EditorClassIdentifier: 
+  m_GroupName: Skidos_Pocoyo_Football_Scenes
+  m_GUID: 05edaa36891ed48a6a5ec2c5f5ca6ead
+  m_SerializeEntries:
+  - m_GUID: 05edb0672060a4c39808654aefe83724
+    m_Address: Assets/Scenes/SceneLoader.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2306eb94ecd414931a7e6c51c60ac70c
+    m_Address: Assets/Scenes/SceneReferenceDatabase.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bbcb5f53d37a3742b4f8ca99ef01bdf
+    m_Address: Assets/Scenes/TestRayco.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4802cc8047451c244b9355595c545131
+    m_Address: Assets/Scenes/Intro.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86043b4781d3c9d4e83e9994350536d9
+    m_Address: Assets/Scenes/TalkingTest.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8f88df014ab31349b3c4585bed5909c
+    m_Address: PocoyoFootball_Main
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66fcbb9786f884d829227e5941fc6328, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ddeb3c8231be74f12ad889214eeee9af, type: 2}
+    - {fileID: 11400000, guid: b07494bbc0f864ebd8eb3e4667d32262, type: 2}

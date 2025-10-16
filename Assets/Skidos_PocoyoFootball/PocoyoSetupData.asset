@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125d502ab17e11b49a3139e1e290d279, type: 3}
+  m_Name: PocoyoSetupData
+  m_EditorClassIdentifier: 
+  FrameRate: 30
+  setup:
+  - GameObjectName: py_chv0001_1:r_eye_GEO
+    JointName: py_chv0001_1:x_facialTxt_JNT
+    UseComponent: 0
+    materialName: Poc_r_Eye
+    textures:
+    - {fileID: 2800000, guid: 291ce25ffeb0b5f43b5e2bd80a1c5680, type: 3}
+    - {fileID: 2800000, guid: fadc53020385d2a4298576a4951cd122, type: 3}
+    - {fileID: 2800000, guid: 9e3e49f5ce1489e498db60cef6b2cba6, type: 3}
+    - {fileID: 2800000, guid: 30319b39e312a134f99a06caec7049c4, type: 3}
+    - {fileID: 2800000, guid: e3e897d491cd8d745afce0e763147711, type: 3}
+    - {fileID: 2800000, guid: aafd7d7f2b188eb43bea9e3be2dbda4f, type: 3}
+    - {fileID: 2800000, guid: 3807d710a46670a4ab4774f32f8994eb, type: 3}
+    - {fileID: 2800000, guid: b79f201f7f3acbe408a5027ed999ae1f, type: 3}
+    - {fileID: 2800000, guid: 6cd0e26b1bdbb544e91432bb8d95f48f, type: 3}
+    - {fileID: 2800000, guid: d10e51633cd0e9742ab35256f96f6a29, type: 3}
+    - {fileID: 2800000, guid: a4aade140a3c49f4a87ca0992dd93a00, type: 3}
+    - {fileID: 2800000, guid: 88fbef07cd8688b47b63f59089d53fa3, type: 3}
+  - GameObjectName: py_chv0001_1:l_eye_GEO
+    JointName: py_chv0001_1:x_facialTxt_JNT
+    UseComponent: 0
+    materialName: Poc_l_Eye
+    textures:
+    - {fileID: 2800000, guid: 4911149d01bf1f544a3f47001e1fa624, type: 3}
+    - {fileID: 2800000, guid: 23ae827337406a04da8b32e73310a3a7, type: 3}
+    - {fileID: 2800000, guid: fbe8aa8a15ab9c74f87186f4f43fc104, type: 3}
+    - {fileID: 2800000, guid: 57946a735ef298b449e815690cc2560a, type: 3}
+    - {fileID: 2800000, guid: 037f7da4c6d221f4bb1d032522503bec, type: 3}
+    - {fileID: 2800000, guid: 43c5e5b3b170f0e42bd3aa7883d2b411, type: 3}
+    - {fileID: 2800000, guid: c92f8c4b865ff944095eb6496a249896, type: 3}
+    - {fileID: 2800000, guid: 4325cb6216ced1f4ca1aaefbeebc8c99, type: 3}
+    - {fileID: 2800000, guid: 26ae5b0d70ead6f4285e66088ebefba2, type: 3}
+    - {fileID: 2800000, guid: ac798d954f8e44a4c8e9d23949fb49ba, type: 3}
+    - {fileID: 2800000, guid: 943faf01690b48449bc6eaeace832500, type: 3}
+    - {fileID: 2800000, guid: 93195b41af008bb4daa92597ad525d30, type: 3}
+  - GameObjectName: py_chv0001_1:x_mouth_GEO
+    JointName: py_chv0001_1:x_facialTxt_JNT
+    UseComponent: 2
+    materialName: Poc_Mouth
+    textures:
+    - {fileID: 2800000, guid: a8a0fb9f21b5e0a45ab854e5f039ca0c, type: 3}
+    - {fileID: 2800000, guid: e36f2a12f8ad5214f954d9d73560b356, type: 3}
+    - {fileID: 2800000, guid: 026a1e6e44a78a247bcb1fa235033a26, type: 3}
+    - {fileID: 2800000, guid: 083481cdadc17074e89b023c207305d7, type: 3}
+    - {fileID: 2800000, guid: 7b784b0921ae35f47956e773af6b64e1, type: 3}
+    - {fileID: 2800000, guid: f082baf494afcb9488133b678638ad0b, type: 3}
+    - {fileID: 2800000, guid: 4f44b55ec8b07d740ae1059a687aaaf4, type: 3}
+    - {fileID: 2800000, guid: eaac589ebd9e674439d9dd3e5d069c9a, type: 3}
+    - {fileID: 2800000, guid: e8c9c7d8a202ef84cb137cd6e4409cb2, type: 3}
+    - {fileID: 2800000, guid: 70d8b354368423a44a2cadb422984bf5, type: 3}
+    - {fileID: 2800000, guid: 24043cef1127e9e459dccfdd5bc9b04a, type: 3}
+    - {fileID: 2800000, guid: 3715872069123664dba88db2f775408e, type: 3}
+    - {fileID: 2800000, guid: 28b7ccf343317964e9a7780da5476796, type: 3}
+    - {fileID: 2800000, guid: 798e5564631bf6b428defb8250724e5e, type: 3}
+    - {fileID: 2800000, guid: 6cf0ab10f076a6841ba61bea43ad28a5, type: 3}
+    - {fileID: 2800000, guid: f19331bd59a432e4cb647972fee874ec, type: 3}
+    - {fileID: 2800000, guid: 994fd2f68e2276c47a6fbe854bcbb2d7, type: 3}
+    - {fileID: 2800000, guid: aae70657e4035db44ae6ac724ee16cad, type: 3}
+    - {fileID: 2800000, guid: f1d76b3f10c03114abad720c74f76064, type: 3}
+    - {fileID: 2800000, guid: ca6de593da60925469b233aef67743b9, type: 3}
+    - {fileID: 2800000, guid: d6e194ed460f731469cbbec49ef18954, type: 3}
+    - {fileID: 2800000, guid: 93bfc4f4f5904d1408bc923f92b9b19d, type: 3}

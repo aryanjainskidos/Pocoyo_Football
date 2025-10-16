@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skidos_Pocoyo_Football_Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Skidos_Pocoyo_Football_Prefabs
+  m_GUID: 2539d0836d01446848414194bdddc17f
+  m_SerializeEntries:
+  - m_GUID: 0f929b31da596d943976ac4420d34b9a
+    m_Address: Assets/Prefabs/PR prefs/SoccerBall_pref.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e7ba6325d6d2aa46a0bc1627b2b26bf
+    m_Address: Assets/Zinkia/LogoImages/ZinkiaLogoPortrait.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ea84cdcf7b376445afcedb0fe6d7c0a
+    m_Address: Assets/Prefabs/PR prefs/Bombo_pref.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e93ee9f5d89279478000d2f5d017668
+    m_Address: Assets/Prefabs/CH Standard/Pocoyo_pref.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5352ceaff17d72d41b566e898a87d734
+    m_Address: Assets/Prefabs/PTeam.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a55e8e0c4e97f24aa5cfa2b992708a7
+    m_Address: Assets/Prefabs/PR prefs/Jembes_pref.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c0b1826d0579c242a26c730fd791063
+    m_Address: Assets/Prefabs/PR prefs/Horn_pref.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a186a9f5b17b724dba04b0836b56849
+    m_Address: Assets/Prefabs/SnikersItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8edce40d6b7fbc844a2c2b623f647d15
+    m_Address: Assets/Prefabs/PR prefs/Whistle_pref.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1b5c5a93c949dd43a829e72cdeac1e7
+    m_Address: Assets/Prefabs/Conffetti.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c94f5a9fd82ec8d49b4d01e7bc899cce
+    m_Address: Assets/Prefabs/OptionsPopup/OptionsPopup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db837b265aa3b954a93d13e660e62c88
+    m_Address: Assets/Prefabs/AnimajLogo/AnimajLogo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1dad83e7ce795a439f77dde625e6914
+    m_Address: Assets/Prefabs/IAPPopups.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e86e3ed73346ca3489b57a605634ef4a
+    m_Address: Assets/Prefabs/PR prefs/Vuvuzela_pref.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edef7922f929d4e41a760dc5cee5b0fe
+    m_Address: Assets/Prefabs/ShieldItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3adc1449d93ddb49a04b4f7a94c914b
+    m_Address: Assets/Prefabs/ShirtItem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa4d7bed75beb274f8e4800b114b851b
+    m_Address: Assets/Zinkia/LogoImages/ZinkiaLogoLandscape.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66fcbb9786f884d829227e5941fc6328, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ee7e6bf8f18a540a7a409432a2b4175c, type: 2}
+    - {fileID: 11400000, guid: 8718884ff46ef46dab0e731d1e05e018, type: 2}

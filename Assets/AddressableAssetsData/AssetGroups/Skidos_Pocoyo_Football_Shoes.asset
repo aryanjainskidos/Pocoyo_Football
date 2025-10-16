@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skidos_Pocoyo_Football_Shoes
+  m_EditorClassIdentifier: 
+  m_GroupName: Skidos_Pocoyo_Football_Shoes
+  m_GUID: 214264e7da5f84ab8aadb5eb536cf1a5
+  m_SerializeEntries:
+  - m_GUID: 02e9273a24e959e4797216b98b35d32f
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_03_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0411146ea9d4cf64db247ffdff4a564a
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_sole.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0561bc9534bdf3b419c8e9b47a35fc4a
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ae7889aa7b3aab4bb359fd6b8089242
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_01_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1be2e2f10575ba6468a8f10c968cfd00
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_04_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e8e9dbf460a4d549a047ae51e9c0798
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_decor-01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f45c13c11e1d3e4896d1e9ca3e041f0
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_tongue.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a71a8a79db82324d9e97dde7517b6ea
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_frame.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51ee1b6dc9dc31944b0ad131003c6f1e
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_05_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6218721eb06e4884b85efac58c1de7a4
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_06_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 661d74728c75c084ab50ea00ce18f802
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_decor-null.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e5ee93a16985b0429821d9296bef7f7
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0d53152d5e5d574499d7bacc594ec50
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2687abc55335a542afadc2ea35b96fb
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_border.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9b00a79e4197ec45b25c34a0c903a37
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_decor-02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9cee69a426b070438ed46762a1c0fcb
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1ca495b1e881e440ba10187bb341d03
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7cd3a06cbe34874aa34fd81531bd3a1
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_decor-03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d98133a351f792944a7bc11ad82739ce
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_02_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3357751b12f3724880caed603abe524
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_s_premium_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66fcbb9786f884d829227e5941fc6328, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fc4e85420541e495db423a72a02ea85f, type: 2}
+    - {fileID: 11400000, guid: db46d42a1c27e4ffb96d7fd3dd79820c, type: 2}

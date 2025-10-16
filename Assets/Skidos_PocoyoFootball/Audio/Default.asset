@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b99abd0fd3070b44a199f80929ca1b1, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: pyis_app02_gam01_sht01
+    audio: {fileID: 8300000, guid: ecb1abdd1ea4f07488f4e86d861b8c34, type: 3}
+  - name: pyis_app02_gam01_sht03
+    audio: {fileID: 8300000, guid: 1f53eab86d0684e4cb82b302c3143d30, type: 3}
+  - name: pyis_app02_gam01_sht04
+    audio: {fileID: 8300000, guid: 379a321a6ed661a4199b64f336e17976, type: 3}
+  - name: pyis_app02_gam01_sht05
+    audio: {fileID: 8300000, guid: 86277f05ca997ef4c841e8c57778a4f6, type: 3}
+  - name: pyis_app02_gam01_sht06
+    audio: {fileID: 8300000, guid: e9ac04da8243f0345baf46b71f3e88e8, type: 3}
+  - name: pyis_app02_gam01_sht07
+    audio: {fileID: 8300000, guid: 83a9183dc1f687d479b0025c67f154f0, type: 3}
+  - name: pyis_app02_gam01_sht08
+    audio: {fileID: 8300000, guid: 31e6d902429af35438e6ca054a94c0e7, type: 3}
+  - name: pyis_app02_gam01_sht09
+    audio: {fileID: 8300000, guid: 3471de414b5e5d042abb8b8a2e05f9b9, type: 3}
+  - name: pyis_app02_gam01_sht10
+    audio: {fileID: 8300000, guid: 6099121d5606ff046b477e0994c1ee52, type: 3}
+  - name: pyis_app02_gam01_sht11
+    audio: {fileID: 8300000, guid: 93080ebd16a5d0c45857554fa6fb96f6, type: 3}
+  - name: pyis_app02_gam01_sht12
+    audio: {fileID: 8300000, guid: 378141adedbaca1468c9d1f976dae83e, type: 3}
+  - name: pyis_app02_gam01_sht13
+    audio: {fileID: 8300000, guid: 054085e4de14800418f4a7f77abd7736, type: 3}
+  - name: pyis_app02_gam01_sht14
+    audio: {fileID: 8300000, guid: 6091dbf76c141c147a385270ded080d5, type: 3}

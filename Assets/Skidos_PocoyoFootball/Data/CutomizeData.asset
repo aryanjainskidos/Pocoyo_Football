@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af605813848b17343a66aad7aff9535d, type: 3}
+  m_Name: CutomizeData
+  m_EditorClassIdentifier: 
+  Colors:
+  - name: Default
+    data: {r: 0.20784315, g: 0.6392157, b: 0.9725491, a: 1}
+  - name: Purple
+    data: {r: 0.6431373, g: 0.34901962, b: 0.9725491, a: 1}
+  - name: Green
+    data: {r: 0.3803922, g: 0.7686275, b: 0, a: 1}
+  - name: Yellow
+    data: {r: 1, g: 0.83921576, b: 0.09411766, a: 1}
+  - name: Gray
+    data: {r: 0.854902, g: 0.909804, b: 0.94117653, a: 1}
+  - name: Orange
+    data: {r: 1, g: 0.57254905, b: 0.07058824, a: 1}
+  - name: Red
+    data: {r: 0.8862746, g: 0.12941177, b: 0.12941177, a: 1}
+  - name: Pink
+    data: {r: 1, g: 0.5803922, b: 0.85098046, a: 1}
+  PatternsPrefab: {fileID: 8812129030850206491, guid: f3adc1449d93ddb49a04b4f7a94c914b,
+    type: 3}
+  Patterns:
+  - name: Border
+    texture: {fileID: 2800000, guid: 2b8f2cd951b8c4c4fb4abbc257c26f91, type: 3}
+    Icon: {fileID: 21300000, guid: 165af3035f937b54a9ef7e401ba073cc, type: 3}
+    ui_image: {fileID: 21300000, guid: f9108a86abc57044da50fbf655d9be0b, type: 3}
+    ui_selected: {fileID: 21300000, guid: a35cf675753af9947b721eeb93dd8310, type: 3}
+    ui_disabled: {fileID: 0}
+    locked: 0
+  ShieldsPrefab: {fileID: 4294449172710406266, guid: edef7922f929d4e41a760dc5cee5b0fe,
+    type: 3}
+  Shields:
+  - name: Shield_01
+    texture: {fileID: 2800000, guid: 48442783d6b36754da4ed4d217c2acb5, type: 3}
+    Icon: {fileID: 21300000, guid: 344a38b53cd0e124ba46293c293ee824, type: 3}
+    ui_image: {fileID: 21300000, guid: 26688610f66c3c546aaf5d84a5e64a8b, type: 3}
+    ui_selected: {fileID: 21300000, guid: 703ec26fde806f146945ca469138b4e0, type: 3}
+    ui_disabled: {fileID: 0}
+    locked: 0
+  - name: Shield_02
+    texture: {fileID: 2800000, guid: ca6162d2eb93ea345bd05db18345b02f, type: 3}
+    Icon: {fileID: 21300000, guid: c33404c5e1486674c9923c7b546fe903, type: 3}
+    ui_image: {fileID: 21300000, guid: c7859be69d91453408d3786a0480360d, type: 3}
+    ui_selected: {fileID: 21300000, guid: 8f33d6a35591f5d4ebe90403372bcb3d, type: 3}
+    ui_disabled: {fileID: 0}
+    locked: 0
+  - name: Shield_03
+    texture: {fileID: 2800000, guid: e02bb655250733e499d45a06cdd0606d, type: 3}
+    Icon: {fileID: 21300000, guid: b0c42534cfbb0bf439c03ee900c3a9b4, type: 3}
+    ui_image: {fileID: 21300000, guid: 1d1a661a92a741b4e962f6f4c51ad1c4, type: 3}
+    ui_selected: {fileID: 21300000, guid: a0f27ea4ce003b3478370c7844ec36e0, type: 3}
+    ui_disabled: {fileID: 0}
+    locked: 0
+  - name: Shield_04
+    texture: {fileID: 2800000, guid: fd4e4d8211a9310439aa62033be05972, type: 3}
+    Icon: {fileID: 21300000, guid: e3b0269546851a84f9c7b7c914afab3a, type: 3}
+    ui_image: {fileID: 21300000, guid: 19bf1db9cdcf8f542bc16e7b8a962911, type: 3}
+    ui_selected: {fileID: 21300000, guid: b055d6031d329ae438c95cc20cf6a048, type: 3}
+    ui_disabled: {fileID: 0}
+    locked: 0
+  - name: Shield_05
+    texture: {fileID: 2800000, guid: eaefa9ab7aab3054a9effdf0446b955e, type: 3}
+    Icon: {fileID: 21300000, guid: 2ccd979548743924eb21311b3e3a0b5d, type: 3}
+    ui_image: {fileID: 21300000, guid: 27a37b0abc183884cbf6983042f3972b, type: 3}
+    ui_selected: {fileID: 21300000, guid: e24c15245c98d674b86601600c928593, type: 3}
+    ui_disabled: {fileID: 0}
+    locked: 0
+  - name: Shield_06
+    texture: {fileID: 2800000, guid: 3c51f4290dfe36940a743d52ddac6fff, type: 3}
+    Icon: {fileID: 21300000, guid: 3848821314ff4054987d0876924c987c, type: 3}
+    ui_image: {fileID: 21300000, guid: 39d235f1a8eb01340b0add2e55a1b4ce, type: 3}
+    ui_selected: {fileID: 21300000, guid: fc5283fdadb171d4f9c1f42bbef5dc90, type: 3}
+    ui_disabled: {fileID: 0}
+    locked: 0
+  - name: Shield_06
+    texture: {fileID: 2800000, guid: 4f6a77c3a17e1234dadf2d8c2ad62ba1, type: 3}
+    Icon: {fileID: 21300000, guid: 07a52cb79e9f31941a619323b0458a31, type: 3}
+    ui_image: {fileID: 21300000, guid: 41db7c9c64d6d584cb6320a12b91316e, type: 3}
+    ui_selected: {fileID: 21300000, guid: 1e6fcd65c4395b3429da1270f5b03c70, type: 3}
+    ui_disabled: {fileID: 0}
+    locked: 0
+  SneakersDefaultMask: {fileID: 2800000, guid: ed02ecb94aceefc46b6cf4a09a186c43, type: 3}
+  SneakersPrefab: {fileID: 8445615289011170601, guid: 7a186a9f5b17b724dba04b0836b56849,
+    type: 3}
+  Sneakers:
+  - name: SneakerBorder
+    texture: {fileID: 2800000, guid: f452c1af29a398545ac3063f183e2425, type: 3}
+    Icon: {fileID: 0}
+    ui_image: {fileID: 21300000, guid: a2687abc55335a542afadc2ea35b96fb, type: 3}
+    ui_selected: {fileID: 21300000, guid: 62dfc20456e65ab41a8d904ca12f82a9, type: 3}
+    ui_disabled: {fileID: 0}
+    locked: 0
+  TeamsPrefab: {fileID: 1778285079083966862, guid: 5352ceaff17d72d41b566e898a87d734,
+    type: 3}
+  Teams:
+  - name: com.zinkia.pocoyo.talkingfootball.team0
+    ui_image: {fileID: 21300000, guid: 1db8f43675f8bb6488697ca829537a8e, type: 3}
+    ui_selected: {fileID: 21300000, guid: 5b829a83cb1521742964b509cd79823c, type: 3}
+    shirtPattern: {fileID: 2800000, guid: 6f4d2864167963645a1572b9563f5f7a, type: 3}
+    sneakerBaseColor: {r: 0, g: 0.3921569, b: 0.9058824, a: 1}
+    sneakerPattern: {fileID: 2800000, guid: 9e51888d9321b834bbb7f9a4629fd5c4, type: 3}

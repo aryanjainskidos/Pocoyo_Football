@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skidos_Pocoyo_Football_Materials
+  m_EditorClassIdentifier: 
+  m_GroupName: Skidos_Pocoyo_Football_Materials
+  m_GUID: d31b9badb9db444989aad9265aeb760b
+  m_SerializeEntries:
+  - m_GUID: 0b54027b1fb756045a0ff78ee0cf4b97
+    m_Address: Assets/Materials/Megaphone_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ff28666bf0732b43889555e7907cbc9
+    m_Address: Assets/Materials/Shadow.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10c60e0f39a79f4408b4949418f48a9b
+    m_Address: Assets/Materials/trumpet_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 280a80802144d1940acdd30db4cda7a4
+    m_Address: Assets/Materials/Whistle_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3006ae316eeec23418ffe5045cdee232
+    m_Address: Assets/Materials/PocLegs.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 362009988674a8d429fd3aa37c627128
+    m_Address: Assets/Materials/Cymbals_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e9ab82eaf1f28e40a3e0decca57d20b
+    m_Address: Assets/Materials/ElectricGuitar_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 412bb0feb6843324ebba163da7a96902
+    m_Address: Assets/Materials/PocHands_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 460ec76891e43c74b8aa14ff9e8dd3e2
+    m_Address: Assets/Materials/DrumSticks_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4704c427e71d1664f8f0a8b208077364
+    m_Address: Assets/Materials/SneakerTab_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47623a9900df5074c8386a9c6cad0327
+    m_Address: Assets/Materials/PocBody.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4859550b05b2f614ab879b5f46c46557
+    m_Address: Assets/Materials/lambert2SG1.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6617cc9caa72aa24c8799c869141791c
+    m_Address: Assets/Materials/Poc_Mouth.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 729aae4395291bb48b8af81603ba55fe
+    m_Address: Assets/Materials/Ground.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8584ea64923e1c6419023110404e74e1
+    m_Address: Assets/Materials/ToyCar.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 873c2d3773ade344ebf7ea0525d6c22b
+    m_Address: Assets/Materials/PocCap.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d7a276f359f5fa4788c90b83dc1da6b
+    m_Address: Assets/Materials/Piano_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 954bab485f808a24bbdc35cec4bc2f97
+    m_Address: Assets/Materials/SoccerBall_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0332983a46d57644bb43d6f8161f08d
+    m_Address: Assets/Materials/Jembe_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b86f0f9d26830f04385e1e35beb5fb07
+    m_Address: Assets/Materials/Confetti.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb9b606dd07ac15448061ac55ba3a0e7
+    m_Address: Assets/Materials/Horn_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c08d661552702204bb91bfd8ebb7c98a
+    m_Address: Assets/Materials/Poc_r_Eye.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd6f1cf9ef922d541b173d899fdf16e0
+    m_Address: Assets/Materials/Poc_l_Eye.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7e99d3693f4fcc4eacfced108875a4d
+    m_Address: Assets/Materials/Environment.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e13422a98797e7a45890f7553754aece
+    m_Address: Assets/Materials/Drum_mat.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66fcbb9786f884d829227e5941fc6328, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aa7690879ac5a45458bbd0be4190bcbb, type: 2}
+    - {fileID: 11400000, guid: 94f3b06b5153a4992aaea83c359196bc, type: 2}

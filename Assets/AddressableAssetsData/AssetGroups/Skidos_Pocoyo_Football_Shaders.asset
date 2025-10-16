@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skidos_Pocoyo_Football_Shaders
+  m_EditorClassIdentifier: 
+  m_GroupName: Skidos_Pocoyo_Football_Shaders
+  m_GUID: 8baab4960b08a4a96bccb1bef0781a61
+  m_SerializeEntries:
+  - m_GUID: 00f159e9dabd74e698244f64f7e2b399
+    m_Address: Assets/Shaders/LegsLayersDinamicObjects_BuiltIn.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0596a6838d78f624397b642817cf20bc
+    m_Address: Assets/unity-ui-extensions/Shaders/UI Particle Premultiply Blend.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0765ecef58833c3429346a1fee45e4e0
+    m_Address: Assets/unity-ui-extensions/Shaders/UI Particle MultiplyDouble.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 088bbfd9222ee044cb4e4699336e9ff1
+    m_Address: Assets/unity-ui-extensions/Shaders/UI Particle AddMultiply.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20fb5fa09d4675a4e94314a228763c23
+    m_Address: Assets/unity-ui-extensions/Shaders/UIAdditive.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 227ac21f7763c00489cc458e3938e326
+    m_Address: Assets/unity-ui-extensions/Shaders/UIScreen.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 320f6bb7bde369b4a85c9d89a9ba5268
+    m_Address: Assets/unity-ui-extensions/Shaders/UI Particle Multiply.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c21ccca6ca7d420e8f41b7d842f2cc9
+    m_Address: Assets/Shaders/SimpleColorOnly_BuiltIn.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c2211b120168e44db4a3a8417013615
+    m_Address: Assets/unity-ui-extensions/Shaders/UI Particle AddSmooth.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52f9a441d27724996b31f2e635358cea
+    m_Address: Assets/Shaders/DinamicObjects_BuiltIn.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e21428f9f9814f188b8eaccd335c940
+    m_Address: Assets/Shaders/BodyClothing_BuiltIn.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65bbb789ada58ab44aaedbe09687f089
+    m_Address: Assets/unity-ui-extensions/Shaders/UI Particle VertexLit Blended.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68286232a04af464482fbd47a69270e8
+    m_Address: Assets/Shaders/LayersDinamicObjects_BuiltIn.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d8d71912c611424f9a3eb5b76f9ee91
+    m_Address: Assets/Shaders/LegsClothing_BuiltIn.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 947afae4d36f1274ea2e4098262ceef6
+    m_Address: Assets/unity-ui-extensions/Shaders/SoftMaskShader.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98fed5ba500a9a04a80325266b9911bb
+    m_Address: Assets/unity-ui-extensions/Shaders/UI Particle Blend.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bd0f3f39c67446d0a8ab960f60ba036
+    m_Address: Assets/Shaders/Unlit_FacialExpresions_BuiltIn.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3c3af59790cf3749ba49fe1c838c94e
+    m_Address: Assets/unity-ui-extensions/Shaders/UILinearDodge.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3d7d8d71a91071469ad7019e77864d6
+    m_Address: Assets/unity-ui-extensions/Shaders/UI Particle Alpha Blend.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccf5a0c8f87d3c547aff3daecb3164a4
+    m_Address: Assets/unity-ui-extensions/Shaders/UIImageCrop.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf73a0a4b5ea8994f916cd18a97c564b
+    m_Address: Assets/unity-ui-extensions/Shaders/UIParticleHidden.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d287872ca8fd776418c28d332df585c3
+    m_Address: Assets/unity-ui-extensions/Shaders/UIMultiply.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e064104788d94b349ab13141a30b5660
+    m_Address: Assets/unity-ui-extensions/Shaders/UI Particle Add.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e52f28a3cc0134d65be3a5c1f457c1bc
+    m_Address: Assets/Shaders/SimpleClothing_BuiltIn.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb2e16a3d1280334a9e05394e1890f09
+    m_Address: Assets/unity-ui-extensions/Shaders/UISoftAdditive.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66fcbb9786f884d829227e5941fc6328, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0d57c523b20c5470f8d1a7200a2d810d, type: 2}
+    - {fileID: 11400000, guid: 05989c6bfd1ca4a43b190dd955fbba8d, type: 2}

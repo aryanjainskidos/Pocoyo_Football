@@ -1,0 +1,333 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skidos_Pocoyo_Football_AudioClips
+  m_EditorClassIdentifier: 
+  m_GroupName: Skidos_Pocoyo_Football_AudioClips
+  m_GUID: c4e648122b3274f02b8905bcc60f1182
+  m_SerializeEntries:
+  - m_GUID: 054085e4de14800418f4a7f77abd7736
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht13.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0df31107e0dd18c4fb0a10a86d47ce24
+    m_Address: Assets/Audio/audio/Instruments/sfx_bombo_aparece2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18cd11b45a4bd984e97b98c597ca4977
+    m_Address: Assets/Audio/audio/Instruments/sfx_silbato_loop_out.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f53eab86d0684e4cb82b302c3143d30
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 229c13d3c344dac4485a2b1a3dae4f2d
+    m_Address: Assets/Audio/audio/Instruments/sfx_bubuzela_desaparece2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31e6d902429af35438e6ca054a94c0e7
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht08.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 338b5c4e80016c743828286662e49720
+    m_Address: Assets/Audio/audio/Instruments/sfx_bubuzela_hard.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3471de414b5e5d042abb8b8a2e05f9b9
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht09.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 374ee19d582875a408d46f20c43a8b62
+    m_Address: Assets/Audio/audio/Instruments/sfx_bombo2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 378141adedbaca1468c9d1f976dae83e
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht12.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 379a321a6ed661a4199b64f336e17976
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht04.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 389cd76cd0f229d47a783d0278ca671b
+    m_Address: Assets/Audio/audio/Instruments/sfx_silbato_soft.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38cc655dc76481f4386c1c3f6afd0e31
+    m_Address: Assets/Audio/audio/Instruments/sfx_jembe_tocar2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e47a8b10a596554d83d3b143101d7cf
+    m_Address: Assets/Audio/audio/Instruments/sfx_jembe_tocar3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4068e8b9c8e751941b5b9c1a71d9d43e
+    m_Address: Assets/Audio/audio/Instruments/sfx_bubuzela_ahogado2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41a56357027f61d4294e7e64bc060844
+    m_Address: Assets/Audio/audio/Game/sfx_balon_seco.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42d389f7ca78f9447a7d1af132940053
+    m_Address: Assets/Audio/audio/Instruments/sfx_airhorn1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 471891b8decd2f948917d36946b3d43e
+    m_Address: Assets/Audio/audio/Instruments/sfx_silbato_ahogado.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4aeaf247ffab9bb4e82f5447ab33e89e
+    m_Address: Assets/Audio/audio/celebrations/pyis_app02_gam02_sht01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6091dbf76c141c147a385270ded080d5
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht14.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6099121d5606ff046b477e0994c1ee52
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht10.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 627056ef5fe44564eb1635a94f3d9e13
+    m_Address: Assets/Audio/audio/Instruments/sfx_bombo_desaparece2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6528ba7cfd669864a988001877fd9086
+    m_Address: Assets/Audio/audio/celebrations/pyis_app02_gam02_sht06.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 653248b82fffbd143b30ca08c7d059cf
+    m_Address: Assets/Audio/audio/Instruments/sfx_bubuzela_soft.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c2e884a28001f943a1c727f6d3b1ee8
+    m_Address: Assets/Audio/audio/celebrations/SFX_CELEBRATION3@.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c7ba43ce8df4024a8fa036a747bfd16
+    m_Address: Assets/Audio/audio/Instruments/sfx_jembe_aparece.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78f63ffa1af214d4194277877f02c9a9
+    m_Address: Assets/Audio/audio/Instruments/sfx_airhorn2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f78f6334bafac24b9158a1fb9d2a52e
+    m_Address: Assets/Audio/audio/Instruments/sfx_airhorn_desaparece2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80d44cd773d2ec640a870cb019774af5
+    m_Address: Assets/Audio/audio/Instruments/sfx_silbato_hard.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 839ea90d8d34c4f47818964d712da3c1
+    m_Address: Assets/Audio/audio/Game/sfx_balon_fuerte.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83a9183dc1f687d479b0025c67f154f0
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht07.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8410475d333d33a49bda8c45714d62c9
+    m_Address: Assets/Audio/audio/celebrations/pyis_app02_gam02_sht07.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86277f05ca997ef4c841e8c57778a4f6
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht05.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86adaf09155ef3844a32a4d45ac0e2a9
+    m_Address: Assets/Audio/audio/Instruments/sfx_airhorn_aparece2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89e253943555fd641a224d402a1e445f
+    m_Address: Assets/Sounds/click/03.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91b84e9f2152e714c958df0cce8b5e44
+    m_Address: Assets/Audio/audio/celebrations/pyis_app02_gam02_sht02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93080ebd16a5d0c45857554fa6fb96f6
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht11.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 957b42a2cca5a354fbd5486429c12a22
+    m_Address: Assets/Audio/audio/Instruments/sfx_silbato_desaparece.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 971f3396c6199524989501a7ae54e7d8
+    m_Address: Assets/Audio/audio/Game/bubble_explosion_sfx_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9858d423adadf1448b44d11e3a1dbec5
+    m_Address: Assets/Sounds/click/01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d4c218b96eab674e92602cd698c7df4
+    m_Address: Assets/Audio/audio/Instruments/sfx_bubuzela_loop_out2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a60d6a730e9a92e418fad58f11b47c73
+    m_Address: Assets/Audio/audio/Game/bubble_explosion_sfx_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a73812cb92cb6774ab9b3eab3c1c8af2
+    m_Address: Assets/Audio/audio/Instruments/sfx_silbato_aparece.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aabb1b824e87fc643af6c0455b8b2c63
+    m_Address: Assets/Audio/audio/Instruments/sfx_jembe_desaparece.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac4e7ff02f02f4343b9aa0b33db89b27
+    m_Address: Assets/Audio/audio/Game/bubble_explosion_sfx_3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b92bf39bae91d1d4eb6cb439afd5e98a
+    m_Address: Assets/Audio/audio/celebrations/SFX_CELEBRATION1@.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c05c2afc883db4c4c9cf2606c1a0282a
+    m_Address: Assets/Audio/audio/Instruments/sfx_bubuzela_loop_in2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c58f5df06d8f61f42abfb89ed6ad34a5
+    m_Address: Assets/Audio/audio/celebrations/pyis_app02_gam02_sht05.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cecc5698bdd65e54c9a56bf3c67fd3c4
+    m_Address: Assets/Audio/audio/Instruments/sfx_jembe_tocar1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3ae12d338f65cc4a847cc4c9725d393
+    m_Address: Assets/Sounds/click/02.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4e3afa9436a2654dae68be79c904add
+    m_Address: Assets/Audio/audio/Game/sfx_decepcion.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d806063feed0bb94eb013d7669c75483
+    m_Address: Assets/Sounds/buy/buy01.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da948c16a1dd34446a8762fa620a374d
+    m_Address: Assets/Audio/audio/celebrations/SFX_CELEBRATION2@.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daa73dac85d938047b08e86c82f5e555
+    m_Address: Assets/Audio/audio/celebrations/pyis_app02_gam02_sht08.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e08176d0eb2521c4bbda65cf643857b9
+    m_Address: Assets/Audio/audio/Instruments/sfx_bombo1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9ac04da8243f0345baf46b71f3e88e8
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht06.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecb1abdd1ea4f07488f4e86d861b8c34
+    m_Address: Assets/Audio/audio/default/pyis_app02_gam01_sht01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee1b7f13686397747aefb12b3e55f22e
+    m_Address: Assets/Audio/audio/Instruments/sfx_bubuzela_aparece2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0b34f8b94162494ba9739e16db1a194
+    m_Address: Assets/Audio/audio/celebrations/pyis_app02_gam02_sht04.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3ad538dfec65c94b83c19066b0e6c00
+    m_Address: Assets/Audio/audio/Instruments/sfx_silbato_loop_in.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb8b4140bcf5bd24ba1b42572c097e2d
+    m_Address: Assets/Audio/audio/celebrations/pyis_app02_gam02_sht03.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc6630a073c290048873c068f2120572
+    m_Address: Assets/Audio/audio/Game/sfx_publico_loop.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66fcbb9786f884d829227e5941fc6328, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ad0b7255cdbf2449c9edcb1f48f199a0, type: 2}
+    - {fileID: 11400000, guid: e0bdb16614c1f4436ad7803ba790c897, type: 2}

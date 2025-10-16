@@ -1,0 +1,698 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skidos_Pocoyo_Football_Models
+  m_EditorClassIdentifier: 
+  m_GroupName: Skidos_Pocoyo_Football_Models
+  m_GUID: 17c5af882316845bb88b2f49ab6506a2
+  m_SerializeEntries:
+  - m_GUID: 06d54415d17d3a24da78aaaac6b6c975
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallFunkyMove_Soccer_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 081e1dd80960e9a4bbd1cf237f8695d2
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallFunkyMove_Soccer_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cbd63b3378ed554ca7b7f2427c30457
+    m_Address: Assets/Animations/Pocoyo/Instruments/Vuvuzela/PY@PY_In_Vuvuzela_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cf240536d8f4d14e827dc7d1d96de6e
+    m_Address: Assets/Models/PR/Bombo.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f2df718e9b178a40a3e82369e44d81b
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_Hear_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10263ef034500cc49bef152e658aeeb3
+    m_Address: Assets/Animations/PropsInstrumentos/Bombo/Bombo@Bombo_Out_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11a6e788c0c80b143b1f3d73b7a9e3f5
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_EeeoooSoccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13072bdfa34681d48aa8ebd686c846cb
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_Idle_02_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13125e1458de5744a80fb3aecd8760fd
+    m_Address: Assets/Animations/Pocoyo/Instruments/Whistle/PY@PY_SoftSound_Whistle_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13698db61aeb9f34b93d2ee02f37d6ed
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallIdle_Soccer_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13ab9471b0258cd42aec914dafa9a300
+    m_Address: Assets/Animations/SoccerBall/Instruments/Bombo/BALL@BALL_In_Bombo_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 159489c4e91c77e40b7cd00d489264e8
+    m_Address: Assets/Animations/SoccerBall/Celebrations/BALL@BallCelebration_Soccer_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a62e570d3e79bc4db7370a2eb52e7f4
+    m_Address: Assets/Animations/Pocoyo/Instruments/Whistle/PY@PY_HardSound_Whistle_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c1a3e3f592f1e94bb973c090317457b
+    m_Address: Assets/Animations/Pocoyo/Instruments/Vuvuzela/PY@PY_Out_Vuvuzela_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ee73189761766e4b8df441e23fbe1a5
+    m_Address: Assets/Animations/Pocoyo/Wardrobe/Wardrobe_OUT.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f3c24c7bcbdf0d4fa132fc36d70fc67
+    m_Address: Assets/Animations/Pocoyo/Game/PY@PY_Body_BallGame_01..fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fa2dbe9b37384047a444c9784591f97
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_TalkSoccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 238cd94acc19bd440a9970451adedd37
+    m_Address: Assets/Animations/SoccerBall/Instruments/Horn/BALL@Ball_In_Horn_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 249ef19a8af92e84e96584ddf1223e4b
+    m_Address: Assets/Animations/Pocoyo/Celebrations/PY@PY_Celebration_Soccer_06.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26f5e2f4407fd8b4cb0cfa9d504ebe11
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallInitialSalute_Soccer_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c46620660c00ae47b79487f9ea37289
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallStrikeScreen_Soccer_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ccad063186d80f44a27036f0db2d7a4
+    m_Address: Assets/Animations/PropsInstrumentos/Horn/Horn@Horn_HardSound_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d41dbe5d0ec634459c36bd72ec813aa
+    m_Address: Assets/Animations/Pocoyo/Instruments/Jembes/PY@PY_C_Jembes_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 329f3d7760b0d9a42814c4b71978398a
+    m_Address: Assets/Animations/PropsInstrumentos/Horn/Horn@Horn_SoftSound_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35e4b32dfe3e20d449ac2e5665aee3a6
+    m_Address: Assets/Models/CH/Pocoyo.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37586cbd9a543774dbb706eea0b50758
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallIdle_Soccer_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3806c0af27b5e7a499cda5670906ace7
+    m_Address: Assets/Animations/Pocoyo/Instruments/Whistle/PY@PY_Out_Wisthle_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39c3ea002490d444cbac58244cefc3ef
+    m_Address: Assets/Animations/Pocoyo/Instruments/Whistle/PY@PY_In_Wisthle_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e3e71db6bf90ed4dadb22a69e72a7b8
+    m_Address: Assets/Animations/PropsInstrumentos/Whistle/Whistle@Whistle_Out_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f9b6e8699d5e7444b48c81295bd2719
+    m_Address: Assets/Animations/Pocoyo/Instruments/Bombo/PY@PY_In_Bombo_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 425d97a8b11aae64b82fd39a25480ea9
+    m_Address: Assets/Animations/Pocoyo/Game/PY@PY_L_Hand_BallGame_01..fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43d4855c8856582428083c4b90e51b8d
+    m_Address: Assets/Animations/Pocoyo/Instruments/Vuvuzela/PY@PY_SoftSound_Vuvuzela_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44edd177d9cacfe48a171522177eb839
+    m_Address: Assets/Animations/SoccerBall/Game/PY@PY_In_BallGame.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48013a711a9569e45b00f9a50a6d0e7e
+    m_Address: Assets/Animations/SoccerBall/Celebrations/BALL@BallCelebration_Soccer_06.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a0dc4150d27e3945bce7905292f9814
+    m_Address: Assets/Animations/Pocoyo/Celebrations/PY@PY_Celebration_Soccer_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c03495652fe4974e938ffdb38c225eb
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_FunkyMove_03_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4fef79afe7dcdd444ad80c2682972dde
+    m_Address: Assets/Animations/Pocoyo/Game/PY@PY_Head_BallGame_01..fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51dc9152d512f6f4fa68f3a06bd5c1c3
+    m_Address: Assets/Animations/PropsInstrumentos/Jembes/Jembes@Jembes_L_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51e75b45504735541af9bd5a4f3ab392
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallFunkyMove_Soccer_06.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b11e8a303c60554b977fd708a392bc5
+    m_Address: Assets/Animations/Pocoyo/Celebrations/PY@PY_Celebration_Soccer_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c7438d5e992ea04ca03f0c6e51a4408
+    m_Address: Assets/Animations/Pocoyo/Instruments/Jembes/PY@PY_Out_Jembes_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c7e841b7207f36468b24c070dee27f5
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_InitialSalute_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5cb421819b7ce5044ad76b03034329e0
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallIdle_Soccer_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e896db4f522b6e49bd059a436a5ed7a
+    m_Address: Assets/Animations/SoccerBall/Game/Ball@Ball_IN_BallGame.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fe89faff6b7c294ea20ebdb401ab9f7
+    m_Address: Assets/Animations/SoccerBall/Celebrations/BALL@BallCelebration_Soccer_07.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 600165381a1b801449353174a4513ea6
+    m_Address: Assets/Animations/SoccerBall/Instruments/Horn/BALL@Ball_Out_Horn_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 610c1a77ead30da468f39300e26af032
+    m_Address: Assets/Animations/SoccerBall/Instruments/Vuvuzela/BALL@Ball_Out_Vuvuzela_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 619241a5b73467c40b72789934dcc575
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallInjury_Soccer_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64ece84dbf8c77948973b3a3435805e8
+    m_Address: Assets/Animations/PropsInstrumentos/Vuvuzela/Vuvuzela@Vuvuzela_In_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65bfc70e5276e91439af03a33b31255c
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_InjurySoccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d35638256fb252498d838c7b819588e
+    m_Address: Assets/Animations/SoccerBall/Instruments/Bombo/BALL@Ball_Position_Bombo_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6db5903de891d214ea0b971b97a1cd58
+    m_Address: Assets/Models/PR/SoccerBall.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fe5ee32bb898ac4f851c8f342a6876b
+    m_Address: Assets/Animations/Pocoyo/Instruments/Bombo/PY@PY_Out_Bombo_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71845207e06af154da0240197a4c60f4
+    m_Address: Assets/Animations/Pocoyo/Celebrations/PY@PY_Celebration_Soccer_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79e1db303ae9dd743adaa248f365c890
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_StrikeScreen_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d3a01701ca710d49b970f6ee49239a1
+    m_Address: Assets/Animations/SoccerBall/Instruments/Jembes/BALL@Ball_Out_Jembes_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ef0558cd121b6f479318092898573da
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_FunkyMove_05_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8381aaf9233cdff48b6e6ac9f641e4c0
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallFunkyMove_Soccer_05.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83e7843ead151e94793df8331a520d3b
+    m_Address: Assets/Animations/Pocoyo/Game/PY@PY_R_Hand_BallGame_01..fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 845301f38f2102f41a45c69f10093e72
+    m_Address: Assets/Animations/SoccerBall/Game/PY@PY_R_Hand_BallGame.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 860ce7c38a28a134aae83fdd0c53587a
+    m_Address: Assets/Animations/Pocoyo/Instruments/Vuvuzela/PY@PY_HardSound_Vuvuzela_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8621489086c9bb245af88335fe9f43e2
+    m_Address: Assets/Models/PR/Horn.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88ed583329feb524f9bd105ee24eecda
+    m_Address: Assets/Models/PR/Megaphone.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89d8b63d8260a4f41a4d49ba0b9d1dcd
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallTalk_Soccer_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89e199c280491be46b22509e6480aedd
+    m_Address: Assets/Animations/SoccerBall/Celebrations/BALL@BallCelebration_Soccer_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8aaa613baa6e860488827396eb053662
+    m_Address: Assets/Animations/SoccerBall/Instruments/Jembes/BALL@Ball_Position_Jembes_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d1e1e3f5e35d9846932a725c1237e4b
+    m_Address: Assets/Animations/SoccerBall/Instruments/Whistle/BALL@Ball_Position_Whistle_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d55e48bd0f514a4c9bccabf53b438ea
+    m_Address: Assets/Models/PR/Vuvuzela.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9297404254fd2314cba54ad784cdefe2
+    m_Address: Assets/Animations/Pocoyo/Instruments/Jembes/PY@PY_R_Jembes_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93f1f8a2af1615f42962c98835c7bc11
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallFunkyMove_Soccer_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 947c6fa892789a1429c476bb5666c0ec
+    m_Address: Assets/Animations/Pocoyo/Instruments/Horn/PY@PY_In_Horn_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9aeafd72044ccda419847d31aa4190f0
+    m_Address: Assets/Animations/SoccerBall/Game/PY@PY_L_Hand_BallGame.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b0e5e9ad2382274da1b1908f8bca1ae
+    m_Address: Assets/Animations/PropsInstrumentos/Horn/Horn@Horn_Out_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fd5d4becee69504ebf6f6f99882bac9
+    m_Address: Assets/Animations/Pocoyo/Instruments/Jembes/PY@PY_In_Jembes_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0624748df43e7d4fbfc1bc803b925bf
+    m_Address: Assets/Animations/SoccerBall/Celebrations/BALL@BallCelebration_Soccer_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a24d027aa43bec749a338c54f31bc595
+    m_Address: Assets/Animations/Pocoyo/Instruments/Bombo/PY@PY_SoftSound_Bombo_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2bff82e88a532144a085946f6834679
+    m_Address: Assets/Animations/SoccerBall/Game/PY@PY_Head_BallGame.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a469a7618b805f64eab8818f4dd6c318
+    m_Address: Assets/Animations/PropsInstrumentos/Bombo/Bombo@Bombo_In_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4bcfb1f3305e9247952e856e1d12f04
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallFunkyMove_Soccer_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4c9b2735d83fee48a1b8460d5b64767
+    m_Address: Assets/Models/PR/Jembes.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6380730d17bcf24fa1c1ba97eb425cc
+    m_Address: Assets/Animations/SoccerBall/Instruments/Jembes/BALL@Ball_In_Jembes_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6a90db2489bffe47b8d2cf7e1f36bbb
+    m_Address: Assets/Animations/Pocoyo/Wardrobe/WardrobeBoot_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a854855a6a6ffe54e8a8eb104d796965
+    m_Address: Assets/Animations/PropsInstrumentos/Bombo/Bombo@Bombo_HardSound_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab67838ad1e814a4c9c68b823f363976
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_Idle_03_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abe8abf620d62d642a9338531a740530
+    m_Address: Assets/Animations/Pocoyo/Wardrobe/Wardobe_Boot_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac812d96a8ed2df4c9d55d464da98e02
+    m_Address: Assets/Animations/Pocoyo/Instruments/Jembes/PY@PY_L_Jembes_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adacea9f4c8a7b8479587ed552e1d6c9
+    m_Address: Assets/Animations/Pocoyo/Instruments/Horn/PY@PY_Out_Horn_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aeed3b6332af6ed4fb590554938bad58
+    m_Address: Assets/Models/PR/Whistle.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afb03835660b5b449a9c07c46cfee90b
+    m_Address: Assets/Models/PR/SoccerBall_Centerpoint.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b227a92b93413384b96795c88a3db719
+    m_Address: Assets/Animations/PropsInstrumentos/Vuvuzela/Vuvuzela@Vuvuzela_Out_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b309ed3d84e7f1740944da0257f1d5de
+    m_Address: Assets/Animations/PropsInstrumentos/Horn/Horn@Horn_In_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9771d8a00b2dd049a9d2072de059848
+    m_Address: Assets/Animations/SoccerBall/Celebrations/BALL@BallCelebration_Soccer_03.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc47e3c2f6256a34f8ec5f88f52996b3
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_FunkyMove_02_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bccada30da61e8a4399b1cd23a7f9677
+    m_Address: Assets/Animations/Pocoyo/Wardrobe/Wardrobe_IN.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcfc0268c0bd1c34285fd399aceaa95d
+    m_Address: Assets/Animations/Pocoyo/Game/PY@PY_In_BallGame_01..fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf7375836ed8d90439edb99b536c34a3
+    m_Address: Assets/Animations/Pocoyo/Instruments/Bombo/PY@PY_HardSound_Bombo_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bff746ed59f09fd41a275d48055c39cc
+    m_Address: Assets/Animations/PropsInstrumentos/Bombo/Bombo@Bombo_SoftSound_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c057f0095097b6a4b8615d6969a63b69
+    m_Address: Assets/Animations/Pocoyo/Instruments/Horn/PY@PY_SoftSound_Horn_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c17e0074a609ce94dbab9b9bad71a1b6
+    m_Address: Assets/Animations/PropsInstrumentos/Whistle/Whistle@Whistle_SoftSound_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c34183d44ffbb154ea666058a64196ed
+    m_Address: Assets/Animations/PropsInstrumentos/Vuvuzela/Vuvuzela@Vuvuzela_HardSound_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c88cbf98f47e70e478cd3487fd3459f7
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_FunkyMove_04_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cad960f73c3cd82408b99b155b9cb7a5
+    m_Address: Assets/Animations/Pocoyo/Wardrobe/Wardrobe_Shirt_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc6f4cc49e29bdf4081e49d1145300ef
+    m_Address: Assets/Animations/SoccerBall/Instruments/Bombo/BALL@Ball_Out_Bombo_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccfe981e67b2e664f834e26349a16126
+    m_Address: Assets/Animations/Pocoyo/Celebrations/PY@PY_Celebration_Soccer_07.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd796fbe02ff8d7428ad0ed6fb435c88
+    m_Address: Assets/Animations/Pocoyo/Game/PY@PY_Fail_BallGame_01..fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d056643c85f1e1742a4d232b406d5265
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallLaugh_Soccer_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d23d6adbb1f682e4db52c162b9d0b22d
+    m_Address: Assets/Animations/PropsInstrumentos/Jembes/Jembes@Jembes_R_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4d051f19c296fa4a96b9745c40fa968
+    m_Address: Assets/Animations/SoccerBall/Game/PY@PY_Fail_BallGame.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8b2dffa2b2979043bf534a986e2c33e
+    m_Address: Assets/Animations/PropsInstrumentos/Jembes/Jembes@Jembes_Out_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9568bac02239b54db785c368c7dc811
+    m_Address: Assets/Animations/SoccerBall/Wardrobe/Wardrobe_Soccerball_OUT.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9e91c19a02a1904c9b187c17b526c37
+    m_Address: Assets/Animations/Pocoyo/Instruments/Horn/PY@PY_HardSound_Horn_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc3048442fa241a4fa3a14aab120748b
+    m_Address: Assets/Animations/SoccerBall/Instruments/Whistle/BALL@Ball_In_Whistle_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd075ad86597a9843bea6a1ec7572c8d
+    m_Address: Assets/Animations/Pocoyo/Wardrobe/WardrobeShirt_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: decaeed41b1424a4bb0615ddf0d17985
+    m_Address: Assets/Animations/PropsInstrumentos/Whistle/Whistle@Whistle_HardSound_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e09acb31862f56f47a701b704ca5a4fd
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_Idle_01_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5ce119add79a3b409a28d6936f1f1c4
+    m_Address: Assets/Animations/SoccerBall/Instruments/Horn/BALL@Ball_Position_Horn_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e612be1ef8929284eb288eda63bfac3d
+    m_Address: Assets/Animations/Pocoyo/Celebrations/PY@PY_Celebration_Soccer_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea0fdec927115c64e91060763816ba4d
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@Ball_Toe2_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea202904382496846adc544b1a79812f
+    m_Address: Assets/Animations/PropsInstrumentos/Vuvuzela/Vuvuzela@Vuvuzela_SoftSound_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea8f067f5b58e784db418fba6e36fe36
+    m_Address: Assets/Animations/SoccerBall/Celebrations/BALL@BallCelebration_Soccer_04.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eabfe779b8780024aad1f6f8183068ca
+    m_Address: Assets/Animations/SoccerBall/Instruments/Whistle/BALL@Ball_Out_Whistle_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec26649c15e77094cbaaf4522ab07feb
+    m_Address: Assets/Animations/SoccerBall/Instruments/Vuvuzela/BALL@Ball_Position_Vuvuzela_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eca8db43ef0c1104fb90f663c49f8aea
+    m_Address: Assets/Animations/PropsInstrumentos/Jembes/Jembes@Jembes_In_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef0a57f8c27d4ec4aa1ebf26bfd7b41f
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallDodge_Soccer_1.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef44010da6954604ea4dcb3fea7b399c
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallHear_Soccer_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0231765d8d733e45a3376cd6b28d064
+    m_Address: Assets/Animations/SoccerBall/Game/PY@PY_Body_BallGame.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f10732b6b8373b74b891dee5b91cb4b0
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_DodgeSoccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f44983f85fe975b4f8b987f6de2f2509
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_FunkyMove_01_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f469f1e888eee464aa363e70c98b6753
+    m_Address: Assets/Animations/Pocoyo/Celebrations/PY@PY_Celebration_Soccer_02.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4d14630c3e409b4eabbf0f8443198a2
+    m_Address: Assets/Animations/SoccerBall/Talking/BALL@BallEeeooo_Soccer_1.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa4ed261cf268984dac5d2656ca2dc76
+    m_Address: Assets/Animations/SoccerBall/Instruments/Vuvuzela/BALL@Ball_In_Vuvuzela_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faee26a264b2d0e4d9560a2fa5bad026
+    m_Address: Assets/Animations/Pocoyo/Talking/Pocoyo@PY_Laugh_Soccer.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbf24c0e91c958843b0feeda02ce2be7
+    m_Address: Assets/Animations/SoccerBall/Wardrobe/Wardrobe_SoccerBall_IN.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd37bd05323b46345a2138d047ad44d0
+    m_Address: Assets/Models/PR/SenakerTab.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe9e8b3907aa80d489dd809256237a39
+    m_Address: Assets/Animations/PropsInstrumentos/Whistle/Whistle@Whistle_In_01.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66fcbb9786f884d829227e5941fc6328, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 02484ac1e990542309bfb586b78a814b, type: 2}
+    - {fileID: 11400000, guid: b24f9a7b1556c4a48a57398ad669d28e, type: 2}

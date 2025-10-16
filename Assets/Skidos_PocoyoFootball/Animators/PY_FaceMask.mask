@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PY_FaceMask
+  m_Mask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_zip_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_neck_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_neck_JNT/py_chv0001_1:x_head_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_neck_JNT/py_chv0001_1:x_head_JNT/py_chv0001_1:l_eye_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_neck_JNT/py_chv0001_1:x_head_JNT/py_chv0001_1:r_eye_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_neck_JNT/py_chv0001_1:x_head_JNT/py_chv0001_1:x_mouth_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_neck_JNT/py_chv0001_1:x_head_JNT/py_chv0001_1:x_facialTxt_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_neck_JNT/py_chv0001_1:x_head_JNT/py_chv0001_1:x_capFront_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_neck_JNT/py_chv0001_1:x_head_JNT/py_chv0001_1:l_capFront_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_neck_JNT/py_chv0001_1:x_head_JNT/py_chv0001_1:r_capFront_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_neck_JNT/py_chv0001_1:x_head_JNT/py_chv0001_1:l_cap_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:x_neck_JNT/py_chv0001_1:x_head_JNT/py_chv0001_1:r_cap_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_thumb01_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_thumb01_JNT/py_chv0001_1:l_thumb02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_thumb01_JNT/py_chv0001_1:l_thumb02_JNT/py_chv0001_1:l_thumb03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_index01_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_index01_JNT/py_chv0001_1:l_index02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_index01_JNT/py_chv0001_1:l_index02_JNT/py_chv0001_1:l_index03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_index01_JNT/py_chv0001_1:l_index02_JNT/py_chv0001_1:l_index03_JNT/py_chv0001_1:l_index04_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_middle01_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_middle01_JNT/py_chv0001_1:l_middle02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_middle01_JNT/py_chv0001_1:l_middle02_JNT/py_chv0001_1:l_middle03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_middle01_JNT/py_chv0001_1:l_middle02_JNT/py_chv0001_1:l_middle03_JNT/py_chv0001_1:l_middle04_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_pinky01_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_pinky01_JNT/py_chv0001_1:l_pinky02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_pinky01_JNT/py_chv0001_1:l_pinky02_JNT/py_chv0001_1:l_pinky03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:l_shoulder_JNT/py_chv0001_1:l_arm01_JNT/py_chv0001_1:l_arm02_JNT/py_chv0001_1:l_arm03_JNT/py_chv0001_1:l_arm04_JNT/py_chv0001_1:l_wrist_JNT/py_chv0001_1:l_pinky01_JNT/py_chv0001_1:l_pinky02_JNT/py_chv0001_1:l_pinky03_JNT/py_chv0001_1:l_pinky04_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_thumb01_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_thumb01_JNT/py_chv0001_1:r_thumb02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_thumb01_JNT/py_chv0001_1:r_thumb02_JNT/py_chv0001_1:r_thumb03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_index01_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_index01_JNT/py_chv0001_1:r_index02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_index01_JNT/py_chv0001_1:r_index02_JNT/py_chv0001_1:r_index03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_index01_JNT/py_chv0001_1:r_index02_JNT/py_chv0001_1:r_index03_JNT/py_chv0001_1:r_index04_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_middle01_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_middle01_JNT/py_chv0001_1:r_middle02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_middle01_JNT/py_chv0001_1:r_middle02_JNT/py_chv0001_1:r_middle03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_middle01_JNT/py_chv0001_1:r_middle02_JNT/py_chv0001_1:r_middle03_JNT/py_chv0001_1:r_middle04_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_pinky01_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_pinky01_JNT/py_chv0001_1:r_pinky02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_pinky01_JNT/py_chv0001_1:r_pinky02_JNT/py_chv0001_1:r_pinky03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_thorax_JNT/py_chv0001_1:r_shoulder_JNT/py_chv0001_1:r_arm01_JNT/py_chv0001_1:r_arm02_JNT/py_chv0001_1:r_arm03_JNT/py_chv0001_1:r_arm04_JNT/py_chv0001_1:r_wrist_JNT/py_chv0001_1:r_pinky01_JNT/py_chv0001_1:r_pinky02_JNT/py_chv0001_1:r_pinky03_JNT/py_chv0001_1:r_pinky04_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_topshirttail_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_topshirttail_JNT/py_chv0001_1:x_shirttailFront_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_topshirttail_JNT/py_chv0001_1:l_shirttailFront_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_topshirttail_JNT/py_chv0001_1:r_shirttailFront_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_topshirttail_JNT/py_chv0001_1:l_shirttail_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_topshirttail_JNT/py_chv0001_1:r_shirttair_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_topshirttail_JNT/py_chv0001_1:l_shirttailBack_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_topshirttail_JNT/py_chv0001_1:r_shirttailBack_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:x_spine_JNT/py_chv0001_1:x_ass_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:l_leg01_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:l_leg01_JNT/py_chv0001_1:l_leg02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:l_leg01_JNT/py_chv0001_1:l_leg02_JNT/py_chv0001_1:l_leg03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:l_leg01_JNT/py_chv0001_1:l_leg02_JNT/py_chv0001_1:l_leg03_JNT/py_chv0001_1:l_leg04_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:l_leg01_JNT/py_chv0001_1:l_leg02_JNT/py_chv0001_1:l_leg03_JNT/py_chv0001_1:l_leg04_JNT/py_chv0001_1:l_heel_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:l_leg01_JNT/py_chv0001_1:l_leg02_JNT/py_chv0001_1:l_leg03_JNT/py_chv0001_1:l_leg04_JNT/py_chv0001_1:l_heel_JNT/py_chv0001_1:l_toeCap_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:r_leg01_JNT
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:r_leg01_JNT/py_chv0001_1:r_leg02_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:r_leg01_JNT/py_chv0001_1:r_leg02_JNT/py_chv0001_1:r_leg03_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:r_leg01_JNT/py_chv0001_1:r_leg02_JNT/py_chv0001_1:r_leg03_JNT/py_chv0001_1:r_leg04_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:r_leg01_JNT/py_chv0001_1:r_leg02_JNT/py_chv0001_1:r_leg03_JNT/py_chv0001_1:r_leg04_JNT/py_chv0001_1:r_heel_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_main_JNT/py_chv0001_1:x_cor_JNT/py_chv0001_1:x_cog_JNT/py_chv0001_1:r_leg01_JNT/py_chv0001_1:r_leg02_JNT/py_chv0001_1:r_leg03_JNT/py_chv0001_1:r_leg04_JNT/py_chv0001_1:r_heel_JNT/py_chv0001_1:r_toeCap_JNT
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_mouth_GEO
+    m_Weight: 0
+  - m_Path: py_chv0001_1:r_eye_GEO
+    m_Weight: 1
+  - m_Path: py_chv0001_1:l_eye_GEO
+    m_Weight: 1
+  - m_Path: py_chv0001_1:x_legs_GEO
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_body_GEO
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_hands_GEO
+    m_Weight: 0
+  - m_Path: py_chv0001_1:x_head_GEO
+    m_Weight: 0

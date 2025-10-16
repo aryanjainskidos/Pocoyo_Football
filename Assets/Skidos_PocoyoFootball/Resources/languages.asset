@@ -1,0 +1,218 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa21f72da875d184e8e40129235997ad, type: 3}
+  m_Name: languages
+  m_EditorClassIdentifier: 
+  nextStringId: 0
+  OriginalText:
+    languageId: 
+    translations:
+    - grougId: Intro
+      stringId: 7552e351206da13f
+      translation: 'Purchase completed successfully.
+
+        Enjoy the new content.'
+    - grougId: Intro
+      stringId: a44dd635baf3be99
+      translation: There has been an error in the purchase process
+    - grougId: Main
+      stringId: a37fe8619d5e3c70
+      translation: Get more dances and instruments picking on the market button.
+    - grougId: Main
+      stringId: a7cbdf49fbbd55ed
+      translation: Quieres desbloquear todo el contenido y quitar la publicidad.
+    - grougId: Main
+      stringId: 7c67af31b4c278b
+      translation: Watch an advertisen to unlock this Item for this session
+    - grougId: Main
+      stringId: c7543e48d7b4732b
+      translation: Cheer on your team by playing Pocoyo's musical instruments.
+    - grougId: Main
+      stringId: c62f16ceb4a338b0
+      translation: Put  Pocoyo in the real world and take photos with your device's
+        camera.
+    - grougId: Main
+      stringId: 7ca11c6bae31bb25
+      translation: + GAMES
+    - grougId: Main
+      stringId: cba34e19372a66ce
+      translation: Help Pocoyo show you his brilliant kick up skills and see how
+        many times he can kick the ball without it touching the ground!
+    - grougId: Main
+      stringId: e63a442363967c53
+      translation: Dress Pocoyo in you favorite team colors.
+    - grougId: Main
+      stringId: da84bb529bafc005
+      translation: 'Tap on Pocoyo so he can show you his flashy football moves.
+
+        You
+        can also talk to him and he will repeat everything with a  funny voice.'
+    - grougId: Main
+      stringId: bfba0f1d14dc9096
+      translation: Celebrate when your team scores a goal with Pocoyo's signature
+        celebration moves!
+    - grougId: Main
+      stringId: 794305003e1bb73f
+      translation: Do you want to save the changes?
+    - grougId: Main
+      stringId: 7f0bb93997cb366
+      translation: Saved
+    - grougId: Main
+      stringId: aa8794b4d9690f1a
+      translation: Error Saving
+    - grougId: Main
+      stringId: 48e9704656b70ef9
+      translation: Quieres desbloquear esta equipacion?
+    - grougId: Main
+      stringId: d6a54dd4e00b794b
+      translation: This kit is not customizable.
+    - grougId: Main
+      stringId: 9fd6d5138a794bb1
+      translation: 'WARNING:
+
+        Adult supervision and special attention to
+        surroundings area recommended while using the Augmented Reality feature.'
+    - grougId: Main
+      stringId: ef46f717199be80c
+      translation: AYUDA
+  Languages:
+  - languageId: en
+    translations:
+    - grougId: Intro
+      stringId: 7552e351206da13f
+      translation: Thank you very much! Now you can enjoy new dances and instruments.
+    - grougId: Intro
+      stringId: a44dd635baf3be99
+      translation: Transaction failed. Please try again later.
+    - grougId: Main
+      stringId: a37fe8619d5e3c70
+      translation: Get more dances and instruments picking on the market button.
+    - grougId: Main
+      stringId: a7cbdf49fbbd55ed
+      translation: Do you want to unlock new dances and instruments?
+    - grougId: Main
+      stringId: 7c67af31b4c278b
+      translation: Watch an ad to unlock this Item for this session
+    - grougId: Main
+      stringId: c7543e48d7b4732b
+      translation: Cheer on your team by playing Pocoyo's musical instruments.
+    - grougId: Main
+      stringId: c62f16ceb4a338b0
+      translation: Put  Pocoyo in the real world and take photos with your device's
+        camera.
+    - grougId: Main
+      stringId: 7ca11c6bae31bb25
+      translation: + Games
+    - grougId: Main
+      stringId: cba34e19372a66ce
+      translation: Help Pocoyo play with the ball and count how many times he hits
+        it without it falling.
+    - grougId: Main
+      stringId: e63a442363967c53
+      translation: Dress Pocoyo in you favorite team colors.
+    - grougId: Main
+      stringId: da84bb529bafc005
+      translation: Touch Pocoyo's body parts and see how funny he reacts. Talk to
+        him and he'll repeat everything in a funny voice!
+    - grougId: Main
+      stringId: bfba0f1d14dc9096
+      translation: Celebrate when your team scores a goal with Pocoyo's signature
+        celebration moves!
+    - grougId: Main
+      stringId: 794305003e1bb73f
+      translation: Do you want to save the changes?
+    - grougId: Main
+      stringId: 7f0bb93997cb366
+      translation: Imaged saved
+    - grougId: Main
+      stringId: aa8794b4d9690f1a
+      translation: Error saving
+    - grougId: Main
+      stringId: 48e9704656b70ef9
+      translation: Do you want to unlock this kit?
+    - grougId: Main
+      stringId: d6a54dd4e00b794b
+      translation: This kit is not customizable.
+    - grougId: Main
+      stringId: 9fd6d5138a794bb1
+      translation: "WARNING: \nAdult supervision and special attention to surroundings
+        area recommended while using the Augmented Reality feature."
+    - grougId: Main
+      stringId: ef46f717199be80c
+      translation: HELP
+  - languageId: es
+    translations:
+    - grougId: Intro
+      stringId: 7552e351206da13f
+      translation: "\xA1Muchas gracias! Ahora podr\xE1s disfrutar de los nuevos bailes
+        e instrumentos."
+    - grougId: Intro
+      stringId: a44dd635baf3be99
+      translation: "Transacci\xF3n fallida. Por favor, int\xE9ntelo de nuevo."
+    - grougId: Main
+      stringId: a37fe8619d5e3c70
+      translation: "Hazte con bailes adicionales y nuevos instrumentos musicales
+        a trav\xE9s del carrito inApp Purchase."
+    - grougId: Main
+      stringId: a7cbdf49fbbd55ed
+      translation: "\xBFDesea desbloquear nuevos bailes e instrumentos?"
+    - grougId: Main
+      stringId: 7c67af31b4c278b
+      translation: "Mira un anuncio para desbloquear este elemento durante esta sesi\xF3n."
+    - grougId: Main
+      stringId: c7543e48d7b4732b
+      translation: "Toca diferentes instrumentos musicales con Pocoy\xF3 y anima
+        a tu equipo."
+    - grougId: Main
+      stringId: c62f16ceb4a338b0
+      translation: "Pon a Pocoy\xF3 en el mundo real y toma fotos con la c\xE1mara
+        de tu dispositivo."
+    - grougId: Main
+      stringId: 7ca11c6bae31bb25
+      translation: + Juegos
+    - grougId: Main
+      stringId: cba34e19372a66ce
+      translation: "Ayuda a Pocoy\xF3 a jugar con el bal\xF3n y cuenta cuantas veces
+        lo golpea sin que caiga."
+    - grougId: Main
+      stringId: e63a442363967c53
+      translation: "Viste a Pocoy\xF3 con los colores de tu equipo favorito."
+    - grougId: Main
+      stringId: da84bb529bafc005
+      translation: "Toca las partes del cuerpo de Pocoy\xF3 y ver\xE1s qu\xE9 divertido
+        reacciona. \xA1H\xE1blale y repetir\xE1 todo con una voz graciosa!"
+    - grougId: Main
+      stringId: bfba0f1d14dc9096
+      translation: "Celebra los goles con Pocoy\xF3. Elije qu\xE9 tipo de celebraci\xF3n
+        quieres que haga."
+    - grougId: Main
+      stringId: 794305003e1bb73f
+      translation: "\xBFQuieres guardar los cambios?"
+    - grougId: Main
+      stringId: 7f0bb93997cb366
+      translation: Imagen guardada
+    - grougId: Main
+      stringId: aa8794b4d9690f1a
+      translation: Error guardando
+    - grougId: Main
+      stringId: 48e9704656b70ef9
+      translation: "\xBFQuieres desbloquear esta equipaci\xF3n?"
+    - grougId: Main
+      stringId: d6a54dd4e00b794b
+      translation: Esta equipacion no es editable.
+    - grougId: Main
+      stringId: 9fd6d5138a794bb1
+      translation: "AVISO: \nSe recomienda supervisi\xF3n de un adulto y atenci\xF3n
+        especial al entorno durante el uso de la funci\xF3n de Realidad Aumentada."
+    - grougId: Main
+      stringId: ef46f717199be80c
+      translation: AYUDA

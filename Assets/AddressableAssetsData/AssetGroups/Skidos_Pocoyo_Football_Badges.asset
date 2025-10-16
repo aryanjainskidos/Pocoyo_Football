@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skidos_Pocoyo_Football_Badges
+  m_EditorClassIdentifier: 
+  m_GroupName: Skidos_Pocoyo_Football_Badges
+  m_GUID: 557bf4fb9e265462d8340a393b71502e
+  m_SerializeEntries:
+  - m_GUID: 19bf1db9cdcf8f542bc16e7b8a962911
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d1a661a92a741b4e962f6f4c51ad1c4
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e6fcd65c4395b3429da1270f5b03c70
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-7_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26688610f66c3c546aaf5d84a5e64a8b
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27a37b0abc183884cbf6983042f3972b
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39d235f1a8eb01340b0add2e55a1b4ce
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41db7c9c64d6d584cb6320a12b91316e
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 585278630d961854fad73ad018cd7194
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-null_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 703ec26fde806f146945ca469138b4e0
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-1_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f33d6a35591f5d4ebe90403372bcb3d
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-2_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96cff94dcd7aa934e9738a03b34ad1b3
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-null.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0f27ea4ce003b3478370c7844ec36e0
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-3_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a80d9fc7157832f4682eecdddb6d0e05
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_frame.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b055d6031d329ae438c95cc20cf6a048
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-4_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7859be69d91453408d3786a0480360d
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da106e5d5ce2ede4aae1b1ba259fec22
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e24c15245c98d674b86601600c928593
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-5_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc5283fdadb171d4f9c1f42bbef5dc90
+    m_Address: Assets/UI/Closet/Dress/menu 03_shields/menu-03_shield-6_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66fcbb9786f884d829227e5941fc6328, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ac10d3376c14b44c783648140d673ed4, type: 2}
+    - {fileID: 11400000, guid: e21581be0bcbd40109b4cdabad48f46b, type: 2}

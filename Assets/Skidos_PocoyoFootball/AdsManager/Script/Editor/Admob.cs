@@ -1,0 +1,1 @@
+public class Admob { public static string AppId = "ca-app-pub-3320246915068019~2932736120"; public static string AppId_iOS = "ca-app-pub-3320246915068019~2725950043"; }

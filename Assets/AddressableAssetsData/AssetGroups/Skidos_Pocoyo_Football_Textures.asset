@@ -1,0 +1,1613 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skidos_Pocoyo_Football_Textures
+  m_EditorClassIdentifier: 
+  m_GroupName: Skidos_Pocoyo_Football_Textures
+  m_GUID: a5cf8b7613fa843018754b44c40cba94
+  m_SerializeEntries:
+  - m_GUID: 019f12e0bb2a2ca41848e0d209084377
+    m_Address: Assets/UI/Closet/Colors/selected_color.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 026a1e6e44a78a247bcb1fa235033a26
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02ef2c15872b7d147af97d5104981d04
+    m_Address: Assets/Textures/Poc_Skin.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02efa2885f0cde74db7b89df27bf2f46
+    m_Address: Assets/UI/InfoPopup/white-frame.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 037f7da4c6d221f4bb1d032522503bec
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt02.0004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 041d7175960b41f478ec54f00a88ba09
+    m_Address: Assets/Textures/Poc_BodyPatterns/tex_stripes.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 046f207a1ea7ce34fab3578e1bc02be0
+    m_Address: "Assets/UI/Menu\u0301_musica/frame_playMusic.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 056a6ba42497b0c44ac1d74a1a8926d7
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_44.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0592404a79655aa4b8dece3f05aff2ec
+    m_Address: "Assets/UI/Menu\u0301_principal/B_info_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05c9a767a64387f43ac186c5138c18df
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_strip.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0618d4371d0f51249b30b105d35eb165
+    m_Address: Assets/Textures/Piano_color.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 06e9be7fdbfdc35478ff0328ac0d83b0
+    m_Address: Assets/Textures/Bombo_color.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 072e73e22be94de4890bad4704a3a4c3
+    m_Address: Assets/UI/VideoRewardPopup/PlayButton_normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0796e641c7fd0c54099ecb2dd03bdecb
+    m_Address: Assets/Textures/Trumpet_mat.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0797df68c1e59b446a6c987da0e68e62
+    m_Address: Assets/Textures/Common/green_check_button.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 083481cdadc17074e89b023c207305d7
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 084210f6a8341d145b224dc068b9a81c
+    m_Address: Assets/Icon/icon_pocoyo_football.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 092a63da2ddfa1b46a48c0b21473c010
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_41.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a21c87472a3b6743bc079743361e7d0
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/create_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a55aadd57e97a547a722bd6a2633662
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-05_blocked.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d781a602db4fdc4c9d0f59708e1a9bf
+    m_Address: Assets/UI/MarketPopup/b_buy_tapped.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ed3eb0f9f634e3419abc9cd66765d88
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-04_blocked_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10d67cb9bed51294793ea5cf5f7dff13
+    m_Address: Assets/UI/MarketPopup/B_restore_tapped.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13319126a0f0dcb4e8d9eccf4a9e98db
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_74.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1454445db26bfe2419f34b3291f85b18
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_38.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14895a9eae52acf4caf3f4a14ac5a979
+    m_Address: Assets/UI/MarketPopup/123_Adventure_Round.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1515b93adc0d34c4a9112006b1e882c9
+    m_Address: Assets/UI/Confetti/NieveAtlas.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 169a73896e7627e44bb04a132f1c37c0
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/blocked_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16cd7970e5510d4458ec83f377ce16db
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_34.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1802542122634594983cb1fa004134cb
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_29.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1833a76ada8ddd8469879f05361afa9f
+    m_Address: Assets/Textures/Common/cross_button.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18da43cf12fb7844da60fda3f2e9dba8
+    m_Address: Assets/UI/MarketPopup/B_close-red_tapped.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ac7a54770e6c2b45a0a3d2f0a90e06b
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_42.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b60455d44af84241890e6258d7858a7
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_20.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c61a55b33a72174e8514945d6bedff1
+    m_Address: Assets/Textures/Poc_LegsPatterns/LegsPattern_05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d52122fb80697947ae6b08001c2eaef
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_24.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d817cbe6c543d74cb5fae86a9d16c56
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-02_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2029672ce267864459ba8f3394a20c59
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-05.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2222de34a5747b948b2009e49c661cb9
+    m_Address: Assets/Prefabs/OptionsPopup/social_icon/TwitterLogo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22462f5a062b45b448391049c59ae11d
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_46.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23ae827337406a04da8b32e73310a3a7
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt02.0001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24043cef1127e9e459dccfdd5bc9b04a
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 258d3683e4fc6a54498c7409e6758631
+    m_Address: Assets/Textures/Poc_LegsPatterns/LegsPattern_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25f5137b0c03f9443b89411c54c5f0db
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26873a99f060bab47b03e44462cd5620
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_53.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26ae5b0d70ead6f4285e66088ebefba2
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt02.0008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2838c61a1c8a7184bab5a3e2f7e8b692
+    m_Address: "Assets/UI/Menu\u0301_musica/B_playMusic-01_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28b7ccf343317964e9a7780da5476796
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28db168b5c130714aa661f4eebed5774
+    m_Address: Assets/Textures/Poc_Sneakers/tex_sneaker_decor-03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 291ce25ffeb0b5f43b5e2bd80a1c5680
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt00.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 296e67eef89d90047a9b46b69c40acf2
+    m_Address: Assets/Textures/Poc_Sneakers/tex_sneaker_sole.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29cc90518893c3044b3d8208ba80cc7b
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_69.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b8f2cd951b8c4c4fb4abbc257c26f91
+    m_Address: Assets/Textures/Poc_BodyPatterns/tex_border.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30261abd031bce946864836952eafb83
+    m_Address: Assets/Textures/Common/check_button.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30319b39e312a134f99a06caec7049c4
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt01.0003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 347350653d81dd245b4e2ed5cc165343
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-01_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 348da129256bd124c8055662348b8237
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-04..png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35ed10f5788bb3f429d65d45e4333d39
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-05_blocked.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 361d88cd6df84bf47987caed38e7ffa1
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3683e99366f8db345b04c12b3bf060a7
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_box-select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3715872069123664dba88db2f775408e
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3807d710a46670a4ab4774f32f8994eb
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt01.0006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a2af293ab9d8594680942f90d88f296
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_49.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a8204e9b7aee87488de51b26632177a
+    m_Address: Assets/UI/VideoRewardPopup/QuitButton.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c51f4290dfe36940a743d52ddac6fff
+    m_Address: Assets/Textures/Poc_Shields/tex_shield-06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ccbebd984fa4544f83ba79278ce5feb
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_09.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ce726a081e18684bbd03ddd93848c09
+    m_Address: Assets/Textures/Common/green_check_button_press.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f5f39d43a74f9e4fa5e4ac5cb2cb9b1
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-06_blocked.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f9cfb87ab3f2df4bb88db3cdbcbb28b
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-02.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 417b4c8bab3927648a03bf1de1ae2cb8
+    m_Address: "Assets/UI/Menu\u0301_baile/frame_Menu-celeb.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 418c4e94730dc924cad45dcee191ca61
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-05_blocked_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42f53df9496551b4e89b443a2aacead9
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_07.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4325cb6216ced1f4ca1aaefbeebc8c99
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt02.0007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43c5e5b3b170f0e42bd3aa7883d2b411
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt02.0005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44fc16cf890dc024880c5ec00c25cf72
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_28.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4637b0b7ed0b70f4680a39bf5259eb08
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 466cec2f243f06d48b89a37909d44f3b
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-04.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46ef917928abb964890958cd06682ff4
+    m_Address: Assets/UI/ParentalPopup/UI_ParentalPanel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47283575c10539a4594c0ecdf5f726b1
+    m_Address: Assets/Textures/PREMIUM/zapatillas Premium/tex_sneaker_premium-02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 479ab42b1f0627a41a5de4c7b71a2c79
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47f2ea924318f6746a581a7089d48cb2
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_box.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48442783d6b36754da4ed4d217c2acb5
+    m_Address: Assets/Textures/Poc_Shields/tex_shield-01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4911149d01bf1f544a3f47001e1fa624
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt00.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49fbc346cf48a2149984a439a054cecd
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_56.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cc26add77b2e34448ad879ff59ea96a
+    m_Address: Assets/Textures/Poc_Sneakers/tex_sneaker_decor-02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d5f3e28b5edaae4c8c566e445093541
+    m_Address: Assets/Textures/Common/check_button_pressed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d74f8727a8aeed4cb46913090d48f4d
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_18.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e34a430f91b6e544b553f4ffbcfb468
+    m_Address: Assets/UI/BallGame/bubbleExplosionStep2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e71901dd9c88214fb7ce220ac0310e0
+    m_Address: Assets/UI/MarketPopup/ABC_Adventure_Round.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f44b55ec8b07d740ae1059a687aaaf4
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f6a77c3a17e1234dadf2d8c2ad62ba1
+    m_Address: Assets/Textures/Poc_Shields/tex_shield-07.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 510a4858cc92b6f409fc1cc2f7f19480
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_59.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51a987d462c1e7e458b1c6107749dada
+    m_Address: Assets/Textures/PREMIUM/zapatillas Premium/tex_sneaker_premium-04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51ad86d4e704b09409ff9462472f7d54
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-05_disabled.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 522e0529ea6882a4b95d0dd8bd3814ee
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-06_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52761d486b0af9044bdde82991e97619
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-04_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 529e25861919df241a7526dd200fb42e
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-06_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 534d7cc37d2ed6a469b5325bd03d46e0
+    m_Address: Assets/Textures/Megaphone_color.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 555db988b096126499674085d59b9ac3
+    m_Address: Assets/UI/ParentalPopup/PanelText_Market.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 568bf1712d7b09644a8163ff02e65c82
+    m_Address: "Assets/UI/Menu\u0301_principal/B_info.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57946a735ef298b449e815690cc2560a
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt02.0003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59a38d6798335d246be94d90d18ed653
+    m_Address: Assets/Textures/ToyCarSimple.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59ecebd810624a547bbbb460baa9dba6
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-03.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bffd99e4e113f14485e5d9f7fdb756b
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e326581693fd4e0db4c590543c3edc4
+    m_Address: Assets/IronSource/DemoScene/logo_small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6071499f4eccb6c4c9017581f6557cc3
+    m_Address: Assets/UI/ARmode/b_photo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60bf8b573836813469e3d67c8dfdaa6a
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-06_blocked_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 611f9c8ef3f058647be0fded70df44e8
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_21.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 623995835410f94409801d99a207ed1f
+    m_Address: Assets/UI/Confetti/CopoNieve_0002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62dfc20456e65ab41a8d904ca12f82a9
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63e6b64c9d915e747895aab64801213b
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_tab-selected.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6428d370de1e43f4a9e2c9b69d3431b4
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64671c5c1d3d5ea41a995ed02e98681e
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_67.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64b0df4fd24da1442a8cb1901dcdbd4a
+    m_Address: Assets/Textures/PocBody2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67f044c6545e6344ab7bf40a5ca33c41
+    m_Address: Assets/UI/BallGame/counter-add.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68b359678964f5d449634318cb1c40e8
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-04.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6992dc6519013bf42aa86dd87fffd9c1
+    m_Address: Assets/Textures/Poc_LegsPatterns/LegsPattern_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69b46260c53a9b54c8dd3219d1ecf578
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-05.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a02424350f49044fb61088a170f2afd
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_55.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ab577a06a1e38a45ae791857a612a62
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-06.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6abb73df33f189846889793027ef9522
+    m_Address: Assets/Textures/Poc_BodyPatterns/tex_base.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b4800d0db11d264999d3bd255e525fb
+    m_Address: Assets/UI/BallGame/bubble.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b9e6a8d29f334441a625f59179df8f5
+    m_Address: Assets/Textures/PREMIUM/zapatillas Premium/tex_sneaker_premium-01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bc035f1d6dca544d8d2f76b54f7f6fd
+    m_Address: Assets/UI/Closet/b_accept.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cd0e26b1bdbb544e91432bb8d95f48f
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt01.0008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cf0ab10f076a6841ba61bea43ad28a5
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d06334443eefbb4697abe307a9625db
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_frame.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e29a9a74a714e141b847efb2ba657a3
+    m_Address: Assets/Textures/SoccerBall_colors.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fbb995679462cd4082235aaeabfb76d
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-01.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fc58471ebaaa004494557869fb7dba0
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-02_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70431b8df9991494f8354d948d85862e
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-01_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70590b84df9e5cf46b9ecf629d0e588f
+    m_Address: Assets/Textures/Common/cross_button_press.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70d8b354368423a44a2cadb422984bf5
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72fe90f510fee6f46a00ff5be1284c37
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-07_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 736d237842d3b534ca54060a927777a8
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-06.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 744f841b9a4e14540bef8903d344a455
+    m_Address: Assets/UI/Confetti/CopoNieve_0001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76a6801c31baebe43bede2040cee1501
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76d1a463caba3184f9f695a903ab38b1
+    m_Address: Assets/UI/Closet/b_cancel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 772639037a7fc26428658adb406e1695
+    m_Address: Assets/UI/Closet/b_cancel_tapped.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77778a1a8edb9d04193a37d33d0511d5
+    m_Address: Assets/UI/ParentalPopup/UI_ParentalButton.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7820b18adb9ede441a75d7a556b931bb
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-05.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 798e5564631bf6b428defb8250724e5e
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b6288736a829924d8115f9e4d2fc329
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_27.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b784b0921ae35f47956e773af6b64e1
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c717abfbcd2bde4e91efaf446d30a34
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_66.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d179929fede1874999a0d41cec65f11
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-07_blocked_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f405526e4b22dd40a8fb31a09ff75dc
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-04_blocked.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 818dcba3471529648b1161116b46b7e3
+    m_Address: Assets/Textures/Stadium.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 826061e9a07c04a4ea56ea62935b4509
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-07_blocked.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8264176ed7e68234d96f96c4a09109bc
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_pattern-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82d16ddaaae18364d8304a32179e5e81
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_48.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 841ef0c89b95ddb47a72b93a2aa3a5b9
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_40.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8548e6a0bb132084881eee5030d8c221
+    m_Address: Assets/Textures/PREMIUM/tex-camisetas Premium/tex-premium_bee.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 861d648e99487104fa5152454615826a
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_39.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86ef00550336dd44ea5a5d5ec8557228
+    m_Address: Assets/Textures/Poc_BodyPatterns/tex_diago-dotted.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 876bdd52c01919942a3450b8ab97543e
+    m_Address: Assets/UI/Control Parental/UI_ParentalButton.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8824972365619bf4fbd8d973bce262c3
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-02.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8844fdf718b23e04793763dcee49d9dd
+    m_Address: Assets/UI/Confetti/CopoNieve_0004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88d07e9bb7bc19a4baf4d8832b8197cc
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-05_blocked_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88fbef07cd8688b47b63f59089d53fa3
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt01.0011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 890eb0a9b408a174a90f8df2993bf6ae
+    m_Address: Assets/Textures/Poc_BodyPatterns/tex_strip.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 896c0d015d50de8409f37a7d7f7039aa
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_31.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89d69f216e3e07a41919574fabe69026
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-03_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8abd5992b97a5d14bbff0e070c82fb9c
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_tab-selected.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b506e38530d96144a87da25bb0eb428
+    m_Address: "Assets/UI/Menu\u0301_musica/frame_Menu-instrum.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bfa3b90357924748acb07dd2362c89a
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-08.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cf569e8616104c4d953fbc7643069be
+    m_Address: Assets/Textures/Common/logo_znk.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d1766c3429a6e34fb955ef3a5962da8
+    m_Address: Assets/UI/Closet/b_accept_tapped.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d37868fa5deae44881ff7eb3d9c9bfd
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_65.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dc76cd781fa71941a05d77fa661f25d
+    m_Address: Assets/UI/Closet/Colors/frame_colors.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e14ccac11cb7bb43aaa19ff9c07f905
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-07.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ed6d3a050ff267428dea49c5ff744ee
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_64.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f2815f665feae147bdf2346b67baa7f
+    m_Address: Assets/UI/MarketPopup/b_buy.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f80f6ba92809e1459127d2ebe36113c
+    m_Address: Assets/Textures/Jembe_color.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fd807240465318419a8e4ad15a5af3e
+    m_Address: Assets/Textures/ElecrticGuitar_colors.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 901f694ac74583246ad94684d16ce2c5
+    m_Address: Assets/Textures/Poc_LegsPatterns/LegsPattern_03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9133bfdd5b4a6ef46a7762b67e2b38b1
+    m_Address: Assets/Textures/PREMIUM/zapatillas Premium/tex_sneaker_premium-05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 918750a34e137cb4cb807146ab0a7743
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-08_blocked_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91aee14b1cdb3ba4990a00dcb0159793
+    m_Address: Assets/Textures/Shadow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91d860b40c481de4d83532a53b4bbce2
+    m_Address: Assets/UI/VideoRewardPopup/VideoReward_Mockup.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93195b41af008bb4daa92597ad525d30
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt02.0011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93bfc4f4f5904d1408bc923f92b9b19d
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0022.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 942b6d2ec6981ab41a76cea880639bc0
+    m_Address: Assets/UI/VideoRewardPopup/PlayButton_pressed.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 943faf01690b48449bc6eaeace832500
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt02.0010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94ef4fbd4f97bd343b3fb3064b71cd07
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9587204b01f91994f8e4fc2152322548
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_75.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 985f1b7f70eb58a4fa9aaafe718cd4a5
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_52.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 991d47e0ed380464faabe6bad7f1530c
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_71.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99209b0ae3d8c2649a2ec905a0072795
+    m_Address: Assets/Textures/Poc_LegsPatterns/LegsPattern_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 994fd2f68e2276c47a6fbe854bcbb2d7
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0017.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99af3e94f4b8a894e99c5653c1a8f654
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_54.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ad6b14acdefe384ab7771c2d3739d03
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_25.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c734feb719bc784c8c7d10007be04ce
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_73.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e3e49f5ce1489e498db60cef6b2cba6
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt01.0002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e51888d9321b834bbb7f9a4629fd5c4
+    m_Address: Assets/Textures/PREMIUM/zapatillas Premium/tex_sneaker_premium-06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e6fe5295ed8ef440899bdf2d58f714c
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-03.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fd980399c3569147ae9a9949d65e733
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-01.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9fe9897a8ca72ac48b4a8a92fb49868f
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-01_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a29eaa197e24b2b409e0d7863fbb472b
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_22.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a35cf675753af9947b721eeb93dd8310
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a376e6bfd5eadfb4e8a238dc8dec327b
+    m_Address: Assets/UI/Control Parental/UI_ParentalPanel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a38e107238700864e88138b164ff21d2
+    m_Address: Assets/UI/Control Parental/ParentalREference.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3b507c38e1f36f49aa84ad619f61e36
+    m_Address: Assets/UI/BallGame/bubbleExplosionStep1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4aade140a3c49f4a87ca0992dd93a00
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt01.0010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5c549357bac37f42bfaa43c82ac36b0
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-03_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6448d809961f7f429c30857f1257d47
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7411cf76992ffa4fb26d03ce5f02f23
+    m_Address: Assets/Textures/Poc_LegsPatterns/LegsPattern_06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8a0fb9f21b5e0a45ab854e5f039ca0c
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9009148ca167cd42b79b4e8c3669053
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_57.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9314dd619517d144beeac7bfc16d789
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-05_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9b36bd69f243d545aee1b9e5355f2e5
+    m_Address: Assets/UI/ARmode/corner_camera.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aabfbd93e69e59143ab0c0620ef9de7f
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_63.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aae70657e4035db44ae6ac724ee16cad
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0018.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aafd7d7f2b188eb43bea9e3be2dbda4f
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt01.0005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab3ab9c97ca741b4ab61fd0121469635
+    m_Address: Assets/UI/Confetti/CopoNieve_0005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab56b7451c48a074bb79400e243869e6
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_37.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab939d442d323354aa410abfaca4b16f
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab9ce3b83e2577e4ba5faeb27fbbeb81
+    m_Address: Assets/UI/ARmode/b_photo_tapped.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac798d954f8e44a4c8e9d23949fb49ba
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt02.0009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad26e9316fdb29a4ab8ea2608ca1f04d
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_51.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad49d865f188fa54f8edc7b295634b1c
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad564cd47f253be45ae3f71a96377c4b
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-04_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad90731f1c34d7c44a8d839e17ff1eec
+    m_Address: Assets/UI/InfoPopup/B_close.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae9079a4b0b610b4f8734464f3eb16af
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_26.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aeb3d88fb1a3c684aa745807a0460bef
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_23.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af0ec03a04e81de46ab17aa0d3c1f736
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-04.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afcb795e47fe3354fb32f86a8e9a1072
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-02.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b365446a6e08f204f98488798bb16b98
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b56a37e2edbc97e479d8de95ca9c4119
+    m_Address: Assets/UI/VideoRewardPopup/Reward_Popup.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5b034e0ce93de54ba0c2c18ce23e9c3
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_32.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5be223ab53fa8a4592b7e884fd9e1f3
+    m_Address: Assets/UI/Closet/Dress/menu 04_sneakers/menu-04_tab-base.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6665f5cc7564b245a9304c143d71223
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_45.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b79f201f7f3acbe408a5027ed999ae1f
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt01.0007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8583d71936f2184ab71a06321c9e08d
+    m_Address: Assets/Textures/PREMIUM/tex-camisetas Premium/tex-premium_zig.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b980d719149c0404fa177020e71264b9
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_50.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b98177dc7eb27584892c3a6eb0557011
+    m_Address: "Assets/UI/Menu\u0301_principal/B_buy_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba3e53789c2aad14eaa2a2de10c14962
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-03.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc37aff7bde855c48ad54f2221242473
+    m_Address: Assets/UI/MarketPopup/B_close-red.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc6b67fd9f2c0b147a550ffca301cf76
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_60.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc8e6f5b2fbfccc4bb0326489c06b429
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_frame.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcf0042eb0e1506439f5f50c990a9ca5
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-08_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd52e5b0e1fa67b4f8717214d2330550
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-08_blocked.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf89899031bd3c2489125174d7ec42fd
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_70.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0bc5f65d6a2ce841b4d081bb852e131
+    m_Address: Assets/Prefabs/OptionsPopup/social_icon/FBLogo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c27ade970656c9e4fa6e73f00c32d180
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-04_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3555c27392837641a6946b9efd2d0e9
+    m_Address: Assets/UI/BallGame/counter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c38ce06805c59634f9075d84551a7dc5
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_tab-base.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c45dfb6d3e2dce244b6bd63d065a7fb6
+    m_Address: Assets/Textures/Poclegs.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6f0701393c86544fb2026d0451b8bec
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_17.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8b0d0f0b52ae7f4cb04284f6bff26c1
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_stripes.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c92f8c4b865ff944095eb6496a249896
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt02.0006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9a0946b8be9e7a4ea0794db2d3d01ff
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_sleeves.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca6162d2eb93ea345bd05db18345b02f
+    m_Address: Assets/Textures/Poc_Shields/tex_shield-02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca6de593da60925469b233aef67743b9
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0020.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cce6cd1daef127b43a64290cb06cbf67
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-01.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d10e51633cd0e9742ab35256f96f6a29
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt01.0009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d11ae965dc262394495fd2adbf905d34
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-04_disabled.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d24c7456038f9964cba22e00b6c107fa
+    m_Address: Assets/Textures/PocHead.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2aa992aa318d0a4b844645bbe472e6c
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_68.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2f557b14d04b20418431dc6a5b8700c
+    m_Address: Assets/Textures/PREMIUM/tex-camisetas Premium/tex-premium_band.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3705cc9a5e9a374abffcb5bc8de3a80
+    m_Address: Assets/UI/Closet/frame_save_clothing.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d475eb3a9a26fa849982a35b611d0d27
+    m_Address: Assets/Textures/Poc_Sneakers/tex_sneaker_decor-01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4eee9e31b2ba944fbb2c9925027fc43
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_08.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5b2757bc0974e644a9ea613d30b6fa2
+    m_Address: "Assets/UI/Menu\u0301_musica/B_playMusic-02_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5ff081eb03995b45a0f51ac6399d1a5
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_47.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6e194ed460f731469cbbec49ef18954
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0021.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7bb7f93d69b4f44cbe1171fc5e7ff55
+    m_Address: Assets/Prefabs/OptionsPopup/social_icon/pcy_icon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d86a0e8c08b88884d978142b8dbf2a78
+    m_Address: "Assets/UI/Menu\u0301_baile/B_celeb-05_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8b586be71348a9459da5570191df54f
+    m_Address: Assets/UI/MarketPopup/frame_apps.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9a0d1760681e3142ae23311259367c5
+    m_Address: Assets/Textures/Horn_tx.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da2352784ca8a79409397da1c736e897
+    m_Address: Assets/UI/MarketPopup/frame_market.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc5c70ae4780d4d4983629dd69616b58
+    m_Address: Assets/Textures/Poc_BodyPatterns/tex_sleeves.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcd66ea7ca8c8854aa515d27a0588590
+    m_Address: Assets/Textures/PREMIUM/tex-camisetas Premium/tex-premium_cross.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfda600252381174b8a1d3cc9022c6a6
+    m_Address: Assets/UI/MarketPopup/BG_Market.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e02bb655250733e499d45a06cdd0606d
+    m_Address: Assets/Textures/Poc_Shields/tex_shield-03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0807af92ed6c844da7bf177cec491f0
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_35.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e14a3691a51225644951fec3dded45b0
+    m_Address: "Assets/UI/Menu\u0301_musica/B_instrument-05_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1d7940ff44e0a04290590a572c959b4
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e27445e545a4bab40809d6aee0fd0420
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e323e626fa2006145bee0cccb2e90686
+    m_Address: Assets/UI/Confetti/CopoNieve_0003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e36f2a12f8ad5214f954d9d73560b356
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3e897d491cd8d745afce0e763147711
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt01.0004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e584f6ac17bea954abedb20ee5aa6cf5
+    m_Address: Assets/UI/InfoPopup/frame_info.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e649210a12f704c43bf667ad446f681e
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-02_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8c9c7d8a202ef84cb137cd6e4409cb2
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9eb4ed54619ba34f9668ec18ec666f6
+    m_Address: Assets/UI/InfoPopup/B_close_tapped.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9f410140d6f18249af54f6b0bd86548
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-03_tapped.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eaac589ebd9e674439d9dd3e5d069c9a
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eaefa9ab7aab3054a9effdf0446b955e
+    m_Address: Assets/Textures/Poc_Shields/tex_shield-05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec9369d61ef9a444fa85421d41b05bb8
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_58.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed02ecb94aceefc46b6cf4a09a186c43
+    m_Address: Assets/Textures/Poc_Sneakers/tex_sneaker_base.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eddd07aa749c945458bf611b1a47fa40
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_62.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee7895cec126e08419500d20ac6db569
+    m_Address: Assets/Textures/PocBody.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f082baf494afcb9488133b678638ad0b
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f19331bd59a432e4cb647972fee874ec
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f19749f60b3aa834aad233e16c704d98
+    m_Address: Assets/UI/MarketPopup/B_restore.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1d76b3f10c03114abad720c74f76064
+    m_Address: Assets/Textures/Poc_Expressions/Mouth/PY_CH_001_01_01_face-txt03.0019.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f208f9003c175a64dafd44e6faded94c
+    m_Address: "Assets/UI/Menu\u0301_musica/B_playMusic-02.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f343aeecd9ba1d0418ba331325d985d6
+    m_Address: "Assets/UI/Menu\u0301_principal/frame_Menu-main.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f452c1af29a398545ac3063f183e2425
+    m_Address: Assets/Textures/Poc_Sneakers/tex_sneaker_border.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4868c3b05c9520458ea9e3b734634cb
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_61.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5e7b097fa5bf5b44b4b2e34eedacbe0
+    m_Address: Assets/Textures/DrumSticks_color.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f64f18fbd24f7a744b348d30771c9abb
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_33.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f68fe7ebffef4004db0a29a5a7b88e42
+    m_Address: Assets/Textures/PREMIUM/zapatillas Premium/tex_sneaker_premium-03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7bc738401b30bf45a766a61dbb2c981
+    m_Address: "Assets/UI/Menu\u0301_principal/B_Menu-06_disabled.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9108a86abc57044da50fbf655d9be0b
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_border.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa030e166ed28bc4ba026522e858a3b9
+    m_Address: Assets/UI/ParentalPopup/ParentalREference.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fadc53020385d2a4298576a4951cd122
+    m_Address: Assets/Textures/Poc_Expressions/EyeDer/PY_CH_001_01_01_face-txt01.0001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb74091ac4b4d2744a29df1d09601dc2
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_72.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbe8aa8a15ab9c74f87186f4f43fc104
+    m_Address: Assets/Textures/Poc_Expressions/EyeIzq/PY_CH_001_01_01_face-txt02.0002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc6408256b8388c4b8613726f5c54775
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_43.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcc65bc6f6780b6469955d24d7744e8a
+    m_Address: "Assets/UI/Menu\u0301_musica/B_playMusic-01.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd4e4d8211a9310439aa62033be05972
+    m_Address: Assets/Textures/Poc_Shields/tex_shield-04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd79e5eca7f9908438ab3a1c7a1a53cf
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_30.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe2e151317e75a9478830a488c0ed7ea
+    m_Address: Assets/Icon/ICONO-T-FOOTBALL_1024.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe798fb9a31f72f4c9d7d11da16df154
+    m_Address: Assets/Zinkia/LogoImages/Images/intro_Zinkia_36.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff1a8215ff9888043af35752e2f3f0db
+    m_Address: "Assets/UI/Menu\u0301_principal/B_buy.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffffc37dd004bc84680f876344a269d8
+    m_Address: Assets/Screenshot.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66fcbb9786f884d829227e5941fc6328, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2df3cd01f41f543f5a2ab81d4a04889d, type: 2}
+    - {fileID: 11400000, guid: 0917e68da2a904e1e8bbe4aff00e9573, type: 2}

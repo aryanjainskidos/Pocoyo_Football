@@ -1,0 +1,19 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<manifest xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    package="com.ironsource.unity">-->
+<!--    -->
+<!--    <uses-permission android:name="android.permission.INTERNET" />-->
+<!--    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />-->
+<!--    -->
+<!--    <application>-->
+<!--        -->
+<!--        &lt;!&ndash; AdMob &ndash;&gt;-->
+<!--        -->
+<!--        &lt;!&ndash;As Requiered By Admob please add your App ID&ndash;&gt;-->
+
+<!--        &lt;!&ndash;<meta-data&ndash;&gt;-->
+<!--            &lt;!&ndash;android:name="com.google.android.gms.ads.APPLICATION_ID"&ndash;&gt;-->
+<!--            &lt;!&ndash;android:value="YOUR_ADMOB_APP_ID"/>&ndash;&gt;-->
+
+<!--    </application>-->
+<!--</manifest>-->

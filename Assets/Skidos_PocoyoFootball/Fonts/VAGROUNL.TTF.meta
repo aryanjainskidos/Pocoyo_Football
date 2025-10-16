@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ba269c32ccabd4e41877f90a41a96556
+timeCreated: 1500026266
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: VAGRounded
+  fontNames:
+  - VAGRounded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

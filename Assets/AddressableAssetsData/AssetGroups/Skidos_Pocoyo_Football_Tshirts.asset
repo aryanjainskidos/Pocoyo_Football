@@ -1,0 +1,293 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skidos_Pocoyo_Football_Tshirts
+  m_EditorClassIdentifier: 
+  m_GroupName: Skidos_Pocoyo_Football_Tshirts
+  m_GUID: 8c3ba6d055f3f4087bdd858302d4df2f
+  m_SerializeEntries:
+  - m_GUID: 03bedf6349118dc42840065fe62c94d1
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Brazil_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05f2fafc6f2d9b449beece5319653d40
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_cross.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07a52cb79e9f31941a619323b0458a31
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_shield-7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11e64aaf5ccef104ea54f64279d16345
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Germany.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 165af3035f937b54a9ef7e401ba073cc
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_border.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17b110869b4ed404c9197586a5d17baf
+    m_Address: Assets/Textures/PREMIUM/equipacion-Premium/shirt-premium_Ghana.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bf565e9befd3cc40b71387fdb53638f
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Brazil.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1db8f43675f8bb6488697ca829537a8e
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Argentina.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fc07723bb041dd4992931a1ad135e2d
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_base-create.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a99d7cd552bcec4881edb08e1c89566
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_sleeves.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2be73d718f7fce745942a23daa2cf134
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Holland.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ccd979548743924eb21311b3e3a0b5d
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_shield-5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e59f1ff7760ef349ac54b50c72a2ac7
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_shirt_band_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 344a38b53cd0e124ba46293c293ee824
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_shield-1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3569b0ea085eece4faf2e9a12257ba45
+    m_Address: Assets/Textures/PREMIUM/equipacion-Premium/shirt-premium_France.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3848821314ff4054987d0876924c987c
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_shield-6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ab2c4cce2946bc4797239387937c5d7
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_strip.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d85f9a8cd49ded4c9bf2093b4f89f11
+    m_Address: Assets/Textures/PREMIUM/equipacion-Premium/shirt-premium_Brazil.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fcc90b69382a5d4db158c00de4a2169
+    m_Address: Assets/Textures/PREMIUM/equipacion-Premium/shirt-premium_Italy.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 486f29ad87f597e479d5d6320f9206b6
+    m_Address: Assets/Textures/PREMIUM/equipacion-Premium/shirt-premium_Spain.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49714b7dec5208441bab2af0834d8fef
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Italy.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c320d3fb7e46ee41868c89d5364af70
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_shirt_zig_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f48881325e47a34ba15d44de757afd5
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Spain_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a1688b503d381b4b89e6b7fcabf5b64
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_shirt_band.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b829a83cb1521742964b509cd79823c
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Argentina_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60a2378bc04bc984e8e9f6f90a668936
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_bee.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c7be01cb6e6d2a4eb8bbfe114f5ded2
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Camerun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f4d2864167963645a1572b9563f5f7a
+    m_Address: Assets/Textures/PREMIUM/equipacion-Premium/shirt-premium_Argentina.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8010b7d7b89aead4d98a5c3f82addc75
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Camerun_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8386e96e0c3f79541865743ab5655690
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Ghana.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89e82c39ab66c6e41894ecc56bc2acb9
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_shirt_bee.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9012d120d0b573c458f34210fdf517d0
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_shirt_bee_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ad9ea2c11136e04c8c26091097412be
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_base.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3cd3e4738549384daa84bc4358e0b9d
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Italy_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8f44ab5efd32f74e91f2fbf1ac4c316
+    m_Address: Assets/Textures/PREMIUM/equipacion-Premium/shirt-premium_Holland.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a91170f45ffd1d84dbd6bd50d90bce99
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_shirt_cross_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad282e056ffd8654fb0968aabea70718
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_France_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0c42534cfbb0bf439c03ee900c3a9b4
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_shield-3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0cc8556c898a324f96d78b09566b818
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_band.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3851bdd7bd5cf44fbb2a77c40a3d820
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Ghana_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3c884aab2501874f923cbc2bb6945dc
+    m_Address: Assets/Textures/PREMIUM/equipacion-Premium/shirt-premium_Camerun.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5cdd8cd2bf94674a881c97b410b7970
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_shirt_cross.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b82bde588c8667d47adb3a6827c10665
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-02_shirt_zig.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c33404c5e1486674c9923c7b546fe903
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_shield-2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c48a6a584653b2c47b1040ce74380490
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Spain.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5ae5f18c95caf249abdd57850e63159
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_zig.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c63430effcb0caa438dbe0d8bd7e034b
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Holland_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce8331d9aeaa14048b74a7136a77b815
+    m_Address: Assets/Textures/PREMIUM/equipacion-Premium/shirt-premium_Germany.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3988452c0801694ab5d0679f021700a
+    m_Address: Assets/UI/Closet/Dress/menu 02_motifs/menu-01_shirt_null.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d731db2312bf44546bfbf0c372fd52dd
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_pattern.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7fe2f2758bd73747ac30e7ae1dad5a7
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_Germany_block.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3b0269546851a84f9c7b7c914afab3a
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_shield-4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa44bf35dd6af6a4fa646a70af7be9ff
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/Premium/menu-01_shirt_France.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc704447788beb542b19541ce0ef9e7d
+    m_Address: Assets/UI/Closet/Dress/menu 01_wardrobe/menu-01_shirt_stripes.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 66fcbb9786f884d829227e5941fc6328, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9ae8515b7ed6d44d390b351c572df97d, type: 2}
+    - {fileID: 11400000, guid: 54bd776c7b7b343d78a0d2c1bbe4b520, type: 2}

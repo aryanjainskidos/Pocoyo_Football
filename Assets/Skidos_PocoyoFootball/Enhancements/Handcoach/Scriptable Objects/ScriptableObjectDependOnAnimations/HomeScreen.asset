@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3be8f4fb2564f4106a812be1f2ec436d, type: 3}
+  m_Name: HomeScreen
+  m_EditorClassIdentifier: 
+  screenKey: HomeScreen
+  animationType: 0
+  tapScale: 1.2
+  tapDuration: 1
+  tapSpeed: 1
+  swipeDirection: {x: 1, y: 0, z: 0}
+  swipeDuration: 1
+  swipeDistance: 150
+  swipeSpeed: 1
+  dragStartPosition: {x: 1300, y: 1500, z: 0}
+  dragEndPosition: {x: 800, y: 800, z: 0}
+  dragDuration: 1
+  dragSpeed: 1
+  circleCenter: {x: 1200, y: 1200, z: 0}
+  circleRadius: 200
+  clockwise: 1
+  circleSpeed: 2

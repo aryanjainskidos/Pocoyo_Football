@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 3b7579a0140634714a6414d9c06d2059
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2425580493340130819
+    second: Game Improvements - User Flow_0
+  - first:
+      213: -2741659474626525351
+    second: Game Improvements - User Flow_1
+  - first:
+      213: -7286901348847139165
+    second: Game Improvements - User Flow_2
+  - first:
+      213: -5212032653826240782
+    second: Game Improvements - User Flow_3
+  - first:
+      213: 1897532578040208120
+    second: Game Improvements - User Flow_4
+  - first:
+      213: 9139108958793791078
+    second: Game Improvements - User Flow_5
+  - first:
+      213: -6089098731958412067
+    second: Game Improvements - User Flow_6
+  - first:
+      213: 1934493571762741022
+    second: Game Improvements - User Flow_7
+  - first:
+      213: -4982954561665712111
+    second: Game Improvements - User Flow_8
+  - first:
+      213: -6963401516394744709
+    second: Game Improvements - User Flow_9
+  - first:
+      213: 1507104858860045300
+    second: Game Improvements - User Flow_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_0
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1420
+        width: 284
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df14850846b965ed0800000000000000
+      internalID: -2425580493340130819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_1
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1420
+        width: 284
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9574dc7db3ba3f9d0800000000000000
+      internalID: -2741659474626525351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_2
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1420
+        width: 285
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6c6a4b4d9bfda90800000000000000
+      internalID: -7286901348847139165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_3
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1420
+        width: 285
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe43f67ae32ba7b0800000000000000
+      internalID: -5212032653826240782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_4
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1420
+        width: 285
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa51df73d3655a10800000000000000
+      internalID: 1897532578040208120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 935
+        width: 649
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6667e7c4d23a4de70800000000000000
+      internalID: 9139108958793791078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_6
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1096
+        width: 284
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc5657f6fc2f7ba0800000000000000
+      internalID: -6089098731958412067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 577
+        width: 285
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fd13577a3b8da10800000000000000
+      internalID: 1934493571762741022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 577
+        width: 284
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110c00c1a3df8dab0800000000000000
+      internalID: -4982954561665712111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 255
+        width: 285
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74ffdae6370d5f90800000000000000
+      internalID: -6963401516394744709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 255
+        width: 284
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f34e9752ef4ae410800000000000000
+      internalID: 1507104858860045300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1244
+        width: 802
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b4e4a82be644ab086133a9d35e68ec
+      internalID: -1931081843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Improvements - User Flow_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 926
+        width: 354
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c5263b59e847828baf961e58e639e
+      internalID: 1020326416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7d729f2ad299448eb8afd6b786473a9b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Improvements - User Flow_0: -2425580493340130819
+      Game Improvements - User Flow_1: -2741659474626525351
+      Game Improvements - User Flow_10: 1507104858860045300
+      Game Improvements - User Flow_11: -1931081843
+      Game Improvements - User Flow_12: 1020326416
+      Game Improvements - User Flow_2: -7286901348847139165
+      Game Improvements - User Flow_3: -5212032653826240782
+      Game Improvements - User Flow_4: 1897532578040208120
+      Game Improvements - User Flow_5: 9139108958793791078
+      Game Improvements - User Flow_6: -6089098731958412067
+      Game Improvements - User Flow_7: 1934493571762741022
+      Game Improvements - User Flow_8: -4982954561665712111
+      Game Improvements - User Flow_9: -6963401516394744709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
