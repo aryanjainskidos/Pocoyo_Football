@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace SoundManager {
+namespace SoundManager_Pocoyo_Football {
 	public class SSoundManager : MonoBehaviour {
 		private AudioSource[] m_SourceFX;
 		private AudioSource m_SourceMusic;

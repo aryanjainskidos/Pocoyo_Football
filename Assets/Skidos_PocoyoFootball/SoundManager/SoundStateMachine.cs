@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using SoundManager_Pocoyo_Football;
 
 namespace SoundManager {
 	public class SoundStateMachine : StateMachineBehaviour {
