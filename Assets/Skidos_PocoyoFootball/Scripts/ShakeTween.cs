@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.UI.Extensions_Football;
 
 [RequireComponent(typeof(Transform))]
 public class ShakeTween : MonoBehaviour {

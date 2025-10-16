@@ -14,17 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GroupName: Default Local Group
   m_GUID: 1afc8593098ac4ac5a863d6a3395ecfe
-  m_SerializeEntries:
-  - m_GUID: 0e90d87441b6fd548bff5378be5032c0
-    m_Address: Assets/PocoyoSetupData.asset
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5784ea131a13b9f48827b52d402ec548
-    m_Address: Assets/Data/CutomizeData.asset
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 66fcbb9786f884d829227e5941fc6328, type: 2}
   m_SchemaSet:

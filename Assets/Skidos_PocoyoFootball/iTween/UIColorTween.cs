@@ -3,10 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
+using UnityEngine.UI.Extensions_Football.Tweens;
+
+namespace UnityEngine.UI.Extensions_Football{
 
 [RequireComponent(typeof(RectTransform))]
 [RequireComponent(typeof(Graphic))]
 [AddComponentMenu("UI/iTween/UIColorTween")]
+
+
 public class UIColorTween : MonoBehaviour {
 
 	public bool AutoStart = false;
@@ -124,4 +129,5 @@ public class UIColorTween : MonoBehaviour {
         OnCompletedReverse.Invoke();
     }
 
+}
 }
